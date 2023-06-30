@@ -20,7 +20,7 @@
 
 - ⚡ Fun fact **I enjoy being one decision away from a completely different life 🙃.**
 
-### Blogs posts
+### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
