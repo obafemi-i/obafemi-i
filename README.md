@@ -22,6 +22,7 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Unleashing the Power of Object-Oriented Programming &lpar;OOP&rpar;.](https://medium.com/@obaff/unleashing-the-power-of-object-oriented-programming-oop-16d52900695d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
