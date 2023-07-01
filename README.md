@@ -22,6 +22,7 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn to build a Sample Project with Kafka and kafkajs.](https://medium.com/@obaff/learn-to-build-a-sample-project-with-kafka-and-kafkajs-1cf50c92e00a?source=rss-e3fdedef2fb5------2)
 - [Unleashing the Power of Object-Oriented Programming &lpar;OOP&rpar;.](https://medium.com/@obaff/unleashing-the-power-of-object-oriented-programming-oop-16d52900695d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
