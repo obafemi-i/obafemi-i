@@ -22,10 +22,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Avoiding Pitfalls: Common Mistakes to Steer Clear of When Picking Up a New Tech Stack.](https://medium.com/@obaff/avoiding-pitfalls-common-mistakes-to-steer-clear-of-when-picking-up-a-new-tech-stack-8b5d22927966?source=rss-e3fdedef2fb5------2)
 - [The Power of Collaboration: Effective Tools and Teamwork in Software Engineering.](https://medium.com/@obaff/the-power-of-collaboration-effective-tools-and-teamwork-in-software-engineering-6e3167746207?source=rss-e3fdedef2fb5------2)
 - [Demystifying Data Structures and Algorithms: Unlocking the Power of Problem Solving.](https://medium.com/@obaff/demystifying-data-structures-and-algorithms-unlocking-the-power-of-problem-solving-eac98f31cb91?source=rss-e3fdedef2fb5------2)
 - [Learn to build a Sample Project with Kafka and kafkajs.](https://medium.com/@obaff/learn-to-build-a-sample-project-with-kafka-and-kafkajs-1cf50c92e00a?source=rss-e3fdedef2fb5------2)
-- [Unleashing the Power of Object-Oriented Programming &lpar;OOP&rpar;.](https://medium.com/@obaff/unleashing-the-power-of-object-oriented-programming-oop-16d52900695d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
