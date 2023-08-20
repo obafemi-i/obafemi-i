@@ -39,6 +39,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=obafemi-i&show_icons=true&locale=en&layout=compact" alt="obafemi-i" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=obafemi-i&show_icons=true&locale=en" alt="obafemi-i" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=obafemi-i&" alt="obafemi-i" /></p>
