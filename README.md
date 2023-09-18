@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Movie Recommendation Algorithm in Python.](https://medium.com/@obaff/building-a-movie-recommendation-algorithm-in-python-460adfcaac7f?source=rss-e3fdedef2fb5------2)
 - [Mastering VSCode: Uncommon Tips and Tricks with Keyboard Shortcuts for Mac and Windows.](https://medium.com/@obaff/mastering-vscode-uncommon-tips-and-tricks-with-keyboard-shortcuts-for-mac-and-windows-66143bdd27f3?source=rss-e3fdedef2fb5------2)
 - [Avoiding Pitfalls: Common Mistakes to Steer Clear of When Picking Up a New Tech Stack.](https://medium.com/@obaff/avoiding-pitfalls-common-mistakes-to-steer-clear-of-when-picking-up-a-new-tech-stack-8b5d22927966?source=rss-e3fdedef2fb5------2)
 - [The Power of Collaboration: Effective Tools and Teamwork in Software Engineering.](https://medium.com/@obaff/the-power-of-collaboration-effective-tools-and-teamwork-in-software-engineering-6e3167746207?source=rss-e3fdedef2fb5------2)
-- [Demystifying Data Structures and Algorithms: Unlocking the Power of Problem Solving.](https://medium.com/@obaff/demystifying-data-structures-and-algorithms-unlocking-the-power-of-problem-solving-eac98f31cb91?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
