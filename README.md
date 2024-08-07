@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Python Comprehensions Good Programmers Use to Improve their Code.](https://medium.com/@obaff/10-python-comprehensions-good-programmers-use-to-improve-their-code-29b041529e54?source=rss-e3fdedef2fb5------2)
 - [Build Live Web Apps with Socket.IO and Nodejs: Code walk-through](https://medium.com/@obaff/build-real-time-web-applications-with-socket-io-and-javascript-a-step-by-step-tutorial-26c4e93b228e?source=rss-e3fdedef2fb5------2)
 - [Learn async and await in JavaScript using a sample API](https://medium.com/@obaff/understanding-async-and-await-in-javascript-63701661fe0f?source=rss-e3fdedef2fb5------2)
 - [Building a sample project using Kafka and a Python-Kafka library, confluent_kafka.](https://medium.com/@obaff/building-a-sample-project-using-kafka-and-a-python-kafka-library-confluent-kafka-521bd48c9911?source=rss-e3fdedef2fb5------2)
-- [Building a Movie Recommendation Algorithm in Python.](https://medium.com/@obaff/building-a-movie-recommendation-algorithm-in-python-460adfcaac7f?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
