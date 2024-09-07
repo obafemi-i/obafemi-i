@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Simple Program with ChatGPT API and Python.](https://medium.com/@obaff/building-a-simple-program-with-chatgpt-api-and-python-dd0e464e71be?source=rss-e3fdedef2fb5------2)
 - [10 Python functions to make things easier.](https://medium.com/@obaff/10-python-functions-to-make-things-easier-25805950b47c?source=rss-e3fdedef2fb5------2)
 - [45 Linux Things You Need to Know: A Crash Course in Command-Line Coolness](https://medium.com/@obaff/45-linux-things-you-need-to-know-a-crash-course-in-command-line-coolness-62916459ba5f?source=rss-e3fdedef2fb5------2)
 - [How to get good at Programming.](https://medium.com/@obaff/how-to-practice-programming-to-actually-get-good-at-it-ad03c7738b98?source=rss-e3fdedef2fb5------2)
-- [10 Python Comprehensions Good Programmers Use to Improve their Code.](https://medium.com/@obaff/10-python-comprehensions-good-programmers-use-to-improve-their-code-29b041529e54?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
