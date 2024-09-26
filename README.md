@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Five essential Python Decorators.](https://medium.com/@obaff/five-essential-python-decorators-b1956299bf14?source=rss-e3fdedef2fb5------2)
 - [Python AI Web Scraper Tutorial.](https://medium.com/@obaff/python-ai-web-scraper-tutorial-35e0cc6f7398?source=rss-e3fdedef2fb5------2)
 - [Asyncio in Python: A Comprehensive Guide with Examples.](https://medium.com/@obaff/asyncio-in-python-a-comprehensive-guide-with-examples-3a3f854017f9?source=rss-e3fdedef2fb5------2)
 - [Understanding AI, Machine Learning, Deep Learning, and Generative AI.](https://medium.com/@obaff/understanding-ai-machine-learning-deep-learning-and-generative-ai-b39ebf02069c?source=rss-e3fdedef2fb5------2)
-- [Building a Simple Program with ChatGPT API and Python.](https://medium.com/@obaff/building-a-simple-program-with-chatgpt-api-and-python-dd0e464e71be?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
