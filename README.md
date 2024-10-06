@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [RabbitMQ and Node.js Tutorial](https://medium.com/@obaff/rabbitmq-and-node-js-tutorial-1ef7c48089b7?source=rss-e3fdedef2fb5------2)
 - [Git and GitHub Tutorial for Beginners.](https://medium.com/@obaff/git-and-github-tutorial-for-beginners-9abae4a530d4?source=rss-e3fdedef2fb5------2)
 - [Automate Google Sheets with Python for Efficient Data Management and Task Automation](https://medium.com/@obaff/automate-google-sheets-with-python-for-efficient-data-management-and-task-automation-1c5e4f45ef57?source=rss-e3fdedef2fb5------2)
 - [Building a Website with Python, FastAPI, and Streamlit](https://medium.com/@obaff/building-a-website-with-python-fastapi-and-streamlit-418f48c41af2?source=rss-e3fdedef2fb5------2)
-- [Five essential Python Decorators.](https://medium.com/@obaff/five-essential-python-decorators-b1956299bf14?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
