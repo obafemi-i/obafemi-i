@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Facebook Ads Scraper with Python](https://medium.com/@obaff/facebook-ads-scraper-with-python-99fa40c5d82e?source=rss-e3fdedef2fb5------2)
 - [How to Make Your First Contribution to Open Source as a Software Developer](https://medium.com/@obaff/how-to-make-your-first-contribution-to-open-source-as-a-software-developer-c0b281c925d7?source=rss-e3fdedef2fb5------2)
 - [RabbitMQ and Node.js Tutorial](https://medium.com/@obaff/rabbitmq-and-node-js-tutorial-1ef7c48089b7?source=rss-e3fdedef2fb5------2)
 - [Git and GitHub Tutorial for Beginners.](https://medium.com/@obaff/git-and-github-tutorial-for-beginners-9abae4a530d4?source=rss-e3fdedef2fb5------2)
-- [Automate Google Sheets with Python for Efficient Data Management and Task Automation](https://medium.com/@obaff/automate-google-sheets-with-python-for-efficient-data-management-and-task-automation-1c5e4f45ef57?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
