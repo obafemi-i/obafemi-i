@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a RESTful API Microservice with Python, Redis, and Docker](https://medium.com/@obaff/building-a-restful-api-microservice-with-python-redis-and-docker-51431ce35149?source=rss-e3fdedef2fb5------2)
 - [Building a CRUD REST API Using Node.js and Firebase](https://blog.devops.dev/building-a-crud-rest-api-using-node-js-and-firebase-80477b0f7180?source=rss-e3fdedef2fb5------2)
 - [Building a Telegram Bot using Langchain, OpenAI, and the Telegram API](https://medium.com/@obaff/building-a-telegram-bot-using-langchain-openai-and-the-telegram-api-1834167e524b?source=rss-e3fdedef2fb5------2)
 - [Facebook Ads Scraper with Python](https://medium.com/@obaff/facebook-ads-scraper-with-python-99fa40c5d82e?source=rss-e3fdedef2fb5------2)
-- [How to Make Your First Contribution to Open Source as a Software Developer](https://medium.com/@obaff/how-to-make-your-first-contribution-to-open-source-as-a-software-developer-c0b281c925d7?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
