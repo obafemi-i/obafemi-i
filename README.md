@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Possible Causes and Solutions for SSLError: SSLEOFError&lpar;8, &#39;EOF occurred in violation of protocol…](https://medium.com/@obaff/possible-causes-and-solutions-for-sslerror-ssleoferror-8-eof-occurred-in-violation-of-protocol-9ad28ff56d56?source=rss-e3fdedef2fb5------2)
 - [A Beginner’s Guide to GitHub Actions](https://blog.devops.dev/a-beginners-guide-to-github-actions-142b03a2b14b?source=rss-e3fdedef2fb5------2)
 - [Building a RESTful API Microservice with Python, Redis, and Docker](https://medium.com/@obaff/building-a-restful-api-microservice-with-python-redis-and-docker-51431ce35149?source=rss-e3fdedef2fb5------2)
 - [Building a CRUD REST API Using Node.js and Firebase](https://blog.devops.dev/building-a-crud-rest-api-using-node-js-and-firebase-80477b0f7180?source=rss-e3fdedef2fb5------2)
-- [Building a Telegram Bot using Langchain, OpenAI, and the Telegram API](https://medium.com/@obaff/building-a-telegram-bot-using-langchain-openai-and-the-telegram-api-1834167e524b?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
