@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimize SQL Queries for Performance](https://medium.com/@obaff/optimize-sql-queries-for-performance-723120640708?source=rss-e3fdedef2fb5------2)
 - [Pinterest Image Downloader Using Python, BeautifulSoup, Requests, and Playwright](https://medium.com/@obaff/pinterest-image-downloader-using-python-beautifulsoup-requests-and-playwright-bf6469028bef?source=rss-e3fdedef2fb5------2)
 - [Setting Up a Complete AWS Infrastructure Connected to GitLab](https://blog.devops.dev/setting-up-a-complete-aws-infrastructure-connected-to-gitlab-28ee469a186b?source=rss-e3fdedef2fb5------2)
 - [10 Python Automation Scripts to Increase Efficiency for DevOps Engineers](https://blog.devops.dev/10-python-automation-scripts-to-increase-efficiency-for-devops-engineers-bcaaa4b6aa68?source=rss-e3fdedef2fb5------2)
-- [Possible Causes and Solutions for SSLError: SSLEOFError&lpar;8, &#39;EOF occurred in violation of protocol…](https://medium.com/@obaff/possible-causes-and-solutions-for-sslerror-ssleoferror-8-eof-occurred-in-violation-of-protocol-9ad28ff56d56?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
