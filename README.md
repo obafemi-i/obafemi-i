@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Setting Up a Complete AWS Infrastructure Connected to GitLab](https://blog.devops.dev/setting-up-a-complete-aws-infrastructure-connected-to-gitlab-28ee469a186b?source=rss-e3fdedef2fb5------2)
 - [10 Python Automation Scripts to Increase Efficiency for DevOps Engineers](https://blog.devops.dev/10-python-automation-scripts-to-increase-efficiency-for-devops-engineers-bcaaa4b6aa68?source=rss-e3fdedef2fb5------2)
 - [Possible Causes and Solutions for SSLError: SSLEOFError&lpar;8, &#39;EOF occurred in violation of protocol…](https://medium.com/@obaff/possible-causes-and-solutions-for-sslerror-ssleoferror-8-eof-occurred-in-violation-of-protocol-9ad28ff56d56?source=rss-e3fdedef2fb5------2)
 - [A Beginner’s Guide to GitHub Actions](https://blog.devops.dev/a-beginners-guide-to-github-actions-142b03a2b14b?source=rss-e3fdedef2fb5------2)
-- [Building a RESTful API Microservice with Python, Redis, and Docker](https://medium.com/@obaff/building-a-restful-api-microservice-with-python-redis-and-docker-51431ce35149?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
