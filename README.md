@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Sample Serverless Application on AWS Using Lambda, S3, and API Gateway](https://medium.com/@obaff/building-a-sample-serverless-application-on-aws-using-lambda-s3-and-api-gateway-9019d46a2ab6?source=rss-e3fdedef2fb5------2)
 - [Uploading and Saving Files to an S3 Bucket Using Python](https://medium.com/@obaff/uploading-and-saving-files-to-an-s3-bucket-using-python-1a5a1c530f4d?source=rss-e3fdedef2fb5------2)
 - [Unit Testing and Test-Driven Development &lpar;TDD&rpar;, Write Better Tests.](https://medium.com/@obaff/unit-testing-and-test-driven-development-tdd-write-better-tests-0e5348ff68ab?source=rss-e3fdedef2fb5------2)
 - [Optimize SQL Queries for Performance](https://medium.com/@obaff/optimize-sql-queries-for-performance-723120640708?source=rss-e3fdedef2fb5------2)
-- [Pinterest Image Downloader Using Python, BeautifulSoup, Requests, and Playwright](https://medium.com/@obaff/pinterest-image-downloader-using-python-beautifulsoup-requests-and-playwright-bf6469028bef?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
