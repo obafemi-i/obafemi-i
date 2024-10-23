@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Use The Eisenhower Matrix To Increase Your Productivity as a Software Engineer](https://blog.devops.dev/use-the-eisenhower-matrix-to-increase-your-productivity-as-a-software-engineer-145a125a1ec7?source=rss-e3fdedef2fb5------2)
+- [12 Bash Scripts Every DevOps Engineer Should Automate](https://blog.devops.dev/12-bash-scripts-every-devops-engineer-should-automate-5b954bbee24c?source=rss-e3fdedef2fb5------2)
 - [8 Design Patterns Every Developer Should Know](https://medium.com/@obaff/8-design-patterns-every-developer-should-know-9fc6b671ffd3?source=rss-e3fdedef2fb5------2)
 - [How Containers Solve Developer Challenges](https://medium.com/@obaff/how-containers-solve-developer-challenges-543a2a0ad6b0?source=rss-e3fdedef2fb5------2)
-- [How to Build Scalable Applications on Kubernetes](https://blog.devops.dev/how-to-build-scalable-applications-on-kubernetes-797f8cfec759?source=rss-e3fdedef2fb5------2)
-- [Uploading and Saving Files to an S3 Bucket Using Node.js](https://medium.com/@obaff/uploading-and-saving-files-to-an-s3-bucket-using-node-js-3784fda9cc94?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
