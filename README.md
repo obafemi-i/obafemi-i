@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Deploy a PostgreSQL database to Azure for two environments &lpar;development and test&rpar; using Terraform](https://blog.devops.dev/deploy-a-postgresql-database-to-azure-for-two-environments-development-and-test-using-terraform-9e2c678281c9?source=rss-e3fdedef2fb5------2)
 - [10 Best Infrastructure as Code &lpar;IaC&rpar; Practices](https://medium.com/@obaff/10-best-infrastructure-as-code-iac-practices-b5080209e48f?source=rss-e3fdedef2fb5------2)
 - [7 DevOps weekend projects](https://blog.devops.dev/7-devops-weekend-projects-39b4ebf37538?source=rss-e3fdedef2fb5------2)
 - [Setting Up a GitLab Pipeline with Docker and DigitalOcean](https://awstip.com/setting-up-a-gitlab-pipeline-with-docker-and-digitalocean-398b5debf681?source=rss-e3fdedef2fb5------2)
-- [7 Python Automation Scripts to Simplify Kubernetes Management](https://awstip.com/7-python-automation-scripts-to-simplify-kubernetes-management-86774dd53812?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
