@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Best Infrastructure as Code &lpar;IaC&rpar; Practices](https://medium.com/@obaff/10-best-infrastructure-as-code-iac-practices-b5080209e48f?source=rss-e3fdedef2fb5------2)
 - [7 DevOps weekend projects](https://blog.devops.dev/7-devops-weekend-projects-39b4ebf37538?source=rss-e3fdedef2fb5------2)
 - [Setting Up a GitLab Pipeline with Docker and DigitalOcean](https://awstip.com/setting-up-a-gitlab-pipeline-with-docker-and-digitalocean-398b5debf681?source=rss-e3fdedef2fb5------2)
 - [7 Python Automation Scripts to Simplify Kubernetes Management](https://awstip.com/7-python-automation-scripts-to-simplify-kubernetes-management-86774dd53812?source=rss-e3fdedef2fb5------2)
-- [Use The Eisenhower Matrix To Increase Your Productivity as a Software Engineer](https://medium.com/@obaff/use-the-eisenhower-matrix-to-increase-your-productivity-as-a-software-engineer-145a125a1ec7?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
