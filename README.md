@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating EC2 Instance with Python](https://blog.devops.dev/automating-ec2-instance-with-python-782e0c367909?source=rss-e3fdedef2fb5------2)
 - [Deploying a Node.js Application on AWS](https://medium.com/@obaff/deploying-a-node-js-application-on-aws-85263db4f1e3?source=rss-e3fdedef2fb5------2)
 - [9 Ways to Automate Infrastructure with Terraform](https://awstip.com/9-ways-to-automate-infrastructure-with-terraform-9166eb913418?source=rss-e3fdedef2fb5------2)
 - [Deploy a PostgreSQL database to Azure for two environments &lpar;development and test&rpar; using Terraform](https://blog.devops.dev/deploy-a-postgresql-database-to-azure-for-two-environments-development-and-test-using-terraform-9e2c678281c9?source=rss-e3fdedef2fb5------2)
-- [10 Best Infrastructure as Code &lpar;IaC&rpar; Practices](https://medium.com/@obaff/10-best-infrastructure-as-code-iac-practices-b5080209e48f?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
