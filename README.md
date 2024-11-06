@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate data transfer from a CSV or Excel file to both a MySQL and PostgreSQL database.](https://medium.com/@obaff/automate-transfer-of-data-from-a-csv-or-excel-file-to-both-a-mysql-and-postgresql-database-15bf0de2725a?source=rss-e3fdedef2fb5------2)
 - [How to Deploy a Node.js WebSocket Server on Google Kubernetes Engine &lpar;GKE&rpar;](https://awstip.com/how-to-deploy-a-node-js-websocket-server-on-google-kubernetes-engine-gke-a8ca9abc66de?source=rss-e3fdedef2fb5------2)
 - [Send personalized emails using SendGrid, Handlebars templates, and TypeScript.](https://medium.com/@obaff/send-personalized-emails-using-sendgrid-handlebars-templates-and-typescript-f8d8da19c471?source=rss-e3fdedef2fb5------2)
 - [Event-Driven Architecture in simple terms](https://medium.com/@obaff/event-driven-architecture-in-simple-terms-495061eb098b?source=rss-e3fdedef2fb5------2)
-- [Automating EC2 Instance with Python](https://blog.devops.dev/automating-ec2-instance-with-python-782e0c367909?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
