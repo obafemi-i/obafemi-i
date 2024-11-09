@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Sample Project Using Celery with Python](https://medium.com/h7w/building-a-sample-project-using-celery-with-python-a0135050aaa1?source=rss-e3fdedef2fb5------2)
 - [10 Automation Scripts for Infrastructure Management Using Ansible](https://awstip.com/10-automation-scripts-for-infrastructure-management-using-ansible-5465914632e3?source=rss-e3fdedef2fb5------2)
 - [Setting Up Windows Subsystem for Linux &lpar;WSL&rpar; for beginners](https://blog.devops.dev/setting-up-windows-subsystem-for-linux-wsl-for-beginners-6fbbb1ed33d2?source=rss-e3fdedef2fb5------2)
 - [Automate data transfer from a CSV or Excel file to both a MySQL and PostgreSQL database.](https://medium.com/@obaff/automate-transfer-of-data-from-a-csv-or-excel-file-to-both-a-mysql-and-postgresql-database-15bf0de2725a?source=rss-e3fdedef2fb5------2)
-- [How to Deploy a Node.js WebSocket Server on Google Kubernetes Engine &lpar;GKE&rpar;](https://awstip.com/how-to-deploy-a-node-js-websocket-server-on-google-kubernetes-engine-gke-a8ca9abc66de?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
