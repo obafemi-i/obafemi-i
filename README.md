@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 DevOps projects for intermediate developers.](https://awstip.com/7-devops-projects-for-intermediate-developers-242d478de5ca?source=rss-e3fdedef2fb5------2)
 - [Bash tips and tricks you &lpar;probably&rpar; didn’t know](https://blog.devops.dev/bash-tips-and-tricks-you-probably-didnt-know-ffae79ce5fe6?source=rss-e3fdedef2fb5------2)
 - [The books that made me a Devops Engineer](https://blog.devops.dev/the-books-that-made-me-a-devops-engineer-b6f4af37fecd?source=rss-e3fdedef2fb5------2)
 - [How Uber Handles TRILLIONS of Transactions](https://medium.com/h7w/how-uber-handles-trillions-of-transactions-48e43df69465?source=rss-e3fdedef2fb5------2)
-- [Top 10 Tech Communities on Reddit](https://medium.com/h7w/top-10-tech-communities-on-reddit-758706d4f8a2?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
