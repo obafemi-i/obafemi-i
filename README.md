@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [13 Checkov Use Cases for Devops Engineers](https://medium.com/@obaff/13-checkov-use-cases-for-devops-engineers-b3b3bb3667af?source=rss-e3fdedef2fb5------2)
 - [7 Essential Tools to Improve Your Devops Workflow](https://blog.devops.dev/7-essential-tools-to-improve-your-devops-workflow-44c06740bf6b?source=rss-e3fdedef2fb5------2)
 - [How to Deploy a Docker Image on AWS ECS](https://medium.com/@obaff/how-to-deploy-a-docker-image-on-aws-ecs-c71c7e1c00ce?source=rss-e3fdedef2fb5------2)
 - [Is your API Actually ready for user traffic?](https://medium.com/h7w/is-your-api-actually-ready-for-user-traffic-43440158b696?source=rss-e3fdedef2fb5------2)
-- [7 DevOps projects for intermediate developers.](https://awstip.com/7-devops-projects-for-intermediate-developers-242d478de5ca?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
