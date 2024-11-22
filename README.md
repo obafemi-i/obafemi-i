@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 Essential Ways to Optimize GitHub Actions Workflows](https://blog.devops.dev/9-essential-ways-to-optimize-github-actions-workflows-442e4b57f8de?source=rss-e3fdedef2fb5------2)
 - [Dockerizing a Django App](https://medium.com/@obaff/dockerizing-a-django-app-e00693b097e3?source=rss-e3fdedef2fb5------2)
 - [13 Checkov Use Cases for Devops Engineers](https://medium.com/@obaff/13-checkov-use-cases-for-devops-engineers-b3b3bb3667af?source=rss-e3fdedef2fb5------2)
 - [7 Essential Tools to Improve Your Devops Workflow](https://blog.devops.dev/7-essential-tools-to-improve-your-devops-workflow-44c06740bf6b?source=rss-e3fdedef2fb5------2)
-- [How to Deploy a Docker Image on AWS ECS](https://medium.com/@obaff/how-to-deploy-a-docker-image-on-aws-ecs-c71c7e1c00ce?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
