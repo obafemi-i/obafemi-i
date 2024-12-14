@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Refactoring Techniques for Cleaner Code.](https://medium.com/@obaff/8-refactoring-techniques-for-cleaner-code-b44add5d337e?source=rss-e3fdedef2fb5------2)
 - [Nginx for High Availability](https://medium.com/@obaff/nginx-for-high-availability-7d25cda24a38?source=rss-e3fdedef2fb5------2)
 - [11 Automation Scripts for Prometheus Configurations.](https://blog.devops.dev/11-automation-scripts-for-prometheus-configurations-fde7b3bf4198?source=rss-e3fdedef2fb5------2)
 - [9 Essential Ways to Optimize GitHub Actions Workflows](https://blog.devops.dev/9-essential-ways-to-optimize-github-actions-workflows-442e4b57f8de?source=rss-e3fdedef2fb5------2)
-- [Dockerizing a Django App](https://medium.com/@obaff/dockerizing-a-django-app-e00693b097e3?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
