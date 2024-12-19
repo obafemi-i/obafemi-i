@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [MongoDB Atlas with AWS for Cloud Database Management](https://awstip.com/mongodb-atlas-with-aws-for-cloud-database-management-ba1e3cc8d6e1?source=rss-e3fdedef2fb5------2)
 - [11 YAML Configurations for DevOps Automation](https://blog.devops.dev/11-yaml-configurations-for-devops-automation-8bf05e1b928c?source=rss-e3fdedef2fb5------2)
 - [How Do AI Agents Work?](https://medium.com/h7w/how-do-ai-agents-work-14522e011089?source=rss-e3fdedef2fb5------2)
 - [15 Scripts to Automate Docker Container Management](https://blog.devops.dev/15-scripts-to-automate-docker-container-management-4bab4c3faf73?source=rss-e3fdedef2fb5------2)
-- [Deploy a Scalable K3s and Argo CD Setup on Hetzner Cloud.](https://blog.devops.dev/deploy-a-scalable-k3s-and-argo-cd-setup-on-hetzner-cloud-f8feab310a64?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
