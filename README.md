@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating DNS Configuration in Linux with Bash Scripts](https://blog.devops.dev/automating-dns-configuration-in-linux-with-bash-scripts-d0f68a8704e9?source=rss-e3fdedef2fb5------2)
 - [19 Cron Jobs for DevOps Engineers](https://blog.devops.dev/19-cron-jobs-for-devops-engineers-261a49c797b7?source=rss-e3fdedef2fb5------2)
 - [MongoDB Atlas with AWS for Cloud Database Management](https://awstip.com/mongodb-atlas-with-aws-for-cloud-database-management-ba1e3cc8d6e1?source=rss-e3fdedef2fb5------2)
 - [11 YAML Configurations for DevOps Automation](https://blog.devops.dev/11-yaml-configurations-for-devops-automation-8bf05e1b928c?source=rss-e3fdedef2fb5------2)
-- [How Do AI Agents Work?](https://medium.com/h7w/how-do-ai-agents-work-14522e011089?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
