@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Essential Python Scripts to Automate Tasks for System Admins](https://medium.com/@obaff/essential-python-scripts-to-automate-tasks-for-system-admins-4bc948f9fb90?source=rss-e3fdedef2fb5------2)
 - [Ollama in 5 minutes — Start to Finish](https://medium.com/h7w/ollama-in-5-minutes-start-to-finish-9d0ae9da8ab2?source=rss-e3fdedef2fb5------2)
 - [Automating DNS Configuration in Linux with Bash Scripts](https://blog.devops.dev/automating-dns-configuration-in-linux-with-bash-scripts-d0f68a8704e9?source=rss-e3fdedef2fb5------2)
 - [19 Cron Jobs for DevOps Engineers](https://blog.devops.dev/19-cron-jobs-for-devops-engineers-261a49c797b7?source=rss-e3fdedef2fb5------2)
-- [MongoDB Atlas with AWS for Cloud Database Management](https://awstip.com/mongodb-atlas-with-aws-for-cloud-database-management-ba1e3cc8d6e1?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
