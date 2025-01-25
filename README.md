@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate Backup, Disaster Recovery, and High Availability in Linux](https://medium.com/@obaff/automate-backup-disaster-recovery-and-high-availability-in-linux-4a6a7fe1763e?source=rss-e3fdedef2fb5------2)
 - [14 Git Commands and Hooks to Automate Your Workflow](https://medium.com/@obaff/14-git-commands-and-hooks-to-automate-your-workflow-75410a8c48d4?source=rss-e3fdedef2fb5------2)
 - [Top 10 Server Provisioning Bash Scripts](https://medium.com/@obaff/top-10-server-provisioning-bash-scripts-fed5f81d5460?source=rss-e3fdedef2fb5------2)
 - [Essential Python Scripts to Automate Tasks for System Admins](https://medium.com/@obaff/essential-python-scripts-to-automate-tasks-for-system-admins-4bc948f9fb90?source=rss-e3fdedef2fb5------2)
-- [Ollama in 5 minutes — Start to Finish](https://medium.com/h7w/ollama-in-5-minutes-start-to-finish-9d0ae9da8ab2?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
