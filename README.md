@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using Python and Paramiko for SSH Automation](https://blog.devops.dev/using-python-and-paramiko-for-ssh-automation-3b3c75bba108?source=rss-e3fdedef2fb5------2)
 - [9 Handy Scripts to Manage Microservices at Scale](https://medium.com/@obaff/9-handy-scripts-to-manage-microservices-at-scale-47f792f3e414?source=rss-e3fdedef2fb5------2)
 - [Automate Backup, Disaster Recovery, and High Availability in Linux](https://medium.com/@obaff/automate-backup-disaster-recovery-and-high-availability-in-linux-4a6a7fe1763e?source=rss-e3fdedef2fb5------2)
 - [14 Git Commands and Hooks to Automate Your Workflow](https://medium.com/@obaff/14-git-commands-and-hooks-to-automate-your-workflow-75410a8c48d4?source=rss-e3fdedef2fb5------2)
-- [Top 10 Server Provisioning Bash Scripts](https://medium.com/@obaff/top-10-server-provisioning-bash-scripts-fed5f81d5460?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
