@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Ansible Playbooks That Can Save You Hours Every Week](https://medium.com/@obaff/7-ansible-playbooks-that-can-save-you-hours-every-week-932b32dba9e4?source=rss-e3fdedef2fb5------2)
 - [Using Python and Paramiko for SSH Automation](https://blog.devops.dev/using-python-and-paramiko-for-ssh-automation-3b3c75bba108?source=rss-e3fdedef2fb5------2)
 - [9 Handy Scripts to Manage Microservices at Scale](https://medium.com/@obaff/9-handy-scripts-to-manage-microservices-at-scale-47f792f3e414?source=rss-e3fdedef2fb5------2)
 - [Automate Backup, Disaster Recovery, and High Availability in Linux](https://medium.com/@obaff/automate-backup-disaster-recovery-and-high-availability-in-linux-4a6a7fe1763e?source=rss-e3fdedef2fb5------2)
-- [14 Git Commands and Hooks to Automate Your Workflow](https://medium.com/@obaff/14-git-commands-and-hooks-to-automate-your-workflow-75410a8c48d4?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
