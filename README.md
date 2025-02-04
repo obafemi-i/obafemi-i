@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Top 10 Kubernetes YAML Configurations every Beginner should know](https://medium.com/@obaff/top-10-kubernetes-yaml-configurations-every-beginner-should-know-4a552424766c?source=rss-e3fdedef2fb5------2)
 - [8 Powerful Bash Functions to Simplify Your Cloud Deployments](https://medium.com/@obaff/8-powerful-bash-functions-to-simplify-your-cloud-deployments-1a6bb0973786?source=rss-e3fdedef2fb5------2)
 - [7 GitOps Projects You Can Try Over the Weekend](https://medium.com/@obaff/7-gitops-projects-you-can-try-over-the-weekend-0040998aeefa?source=rss-e3fdedef2fb5------2)
 - [7 Ansible Playbooks That Can Save You Hours Every Week](https://medium.com/@obaff/7-ansible-playbooks-that-can-save-you-hours-every-week-932b32dba9e4?source=rss-e3fdedef2fb5------2)
-- [Using Python and Paramiko for SSH Automation](https://blog.devops.dev/using-python-and-paramiko-for-ssh-automation-3b3c75bba108?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
