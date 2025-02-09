@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Hands-On Ansible Projects to Try This Weekend](https://medium.com/@obaff/5-hands-on-ansible-projects-to-try-this-weekend-7d88563081fe?source=rss-e3fdedef2fb5------2)
 - [Automating Cloud Infrastructure Setup with Shell Scripts &lpar;AWS, Azure, GCP&rpar;](https://blog.devops.dev/automating-cloud-infrastructure-setup-with-shell-scripts-aws-azure-gcp-7a058863dbfc?source=rss-e3fdedef2fb5------2)
 - [9 Jenkins Groovy Scripts Every DevOps Engineer Should Automate](https://blog.devops.dev/9-jenkins-groovy-scripts-every-devops-engineer-should-automate-59b5b03de088?source=rss-e3fdedef2fb5------2)
 - [19 Time-Saving Tips for Managing Logs with ELK Stack](https://medium.com/@obaff/19-time-saving-tips-for-managing-logs-with-elk-stack-8286b1626fcc?source=rss-e3fdedef2fb5------2)
-- [10 Python Scripts to Automate Linux Administration Tasks](https://medium.com/@obaff/10-python-scripts-to-automate-linux-administration-tasks-3d687341b42d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
