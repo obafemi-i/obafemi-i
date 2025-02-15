@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [4 Weekend Projects to Increase Your DevSecOps Skills](https://medium.com/@obaff/4-weekend-projects-to-increase-your-devsecops-skills-c6a66a6f8cb9?source=rss-e3fdedef2fb5------2)
 - [15 Configuration Management Scripts Every DevOps Pro Should Know](https://blog.devops.dev/15-configuration-management-scripts-every-devops-pro-should-know-fc46391236f9?source=rss-e3fdedef2fb5------2)
 - [10 Bash Scripts to Automate Security Hardening in DevOps](https://medium.com/@obaff/10-bash-scripts-to-automate-security-hardening-in-devops-a1c0ed1ee896?source=rss-e3fdedef2fb5------2)
 - [5 Hands-On Ansible Projects to Try This Weekend](https://medium.com/@obaff/5-hands-on-ansible-projects-to-try-this-weekend-7d88563081fe?source=rss-e3fdedef2fb5------2)
-- [Automating Cloud Infrastructure Setup with Shell Scripts &lpar;AWS, Azure, GCP&rpar;](https://blog.devops.dev/automating-cloud-infrastructure-setup-with-shell-scripts-aws-azure-gcp-7a058863dbfc?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
