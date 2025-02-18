@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Terraform Modules to Simplify Your Infrastructure as Code](https://medium.com/@obaff/10-terraform-modules-to-simplify-your-infrastructure-as-code-2870a8df663d?source=rss-e3fdedef2fb5------2)
 - [Automating Linux Server Setup with Bash Scripts](https://blog.devops.dev/automating-linux-server-setup-with-bash-scripts-5b9d367f6682?source=rss-e3fdedef2fb5------2)
 - [4 Weekend Projects to Increase Your DevSecOps Skills](https://medium.com/@obaff/4-weekend-projects-to-increase-your-devsecops-skills-c6a66a6f8cb9?source=rss-e3fdedef2fb5------2)
 - [15 Configuration Management Scripts Every DevOps Pro Should Know](https://blog.devops.dev/15-configuration-management-scripts-every-devops-pro-should-know-fc46391236f9?source=rss-e3fdedef2fb5------2)
-- [10 Bash Scripts to Automate Security Hardening in DevOps](https://medium.com/@obaff/10-bash-scripts-to-automate-security-hardening-in-devops-a1c0ed1ee896?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
