@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Prometheus Alerts Every DevOps Engineer Should Set Up](https://blog.devops.dev/10-prometheus-alerts-every-devops-engineer-should-set-up-9ff96c0bdfad?source=rss-e3fdedef2fb5------2)
 - [Automating Configuration Management with Ansible](https://medium.com/@obaff/automating-configuration-management-with-ansible-54bfc46bb4a4?source=rss-e3fdedef2fb5------2)
 - [10 Bash Scripts to Automate Kubernetes Deployment](https://medium.com/@obaff/10-bash-scripts-to-automate-kubernetes-deployment-b1cc7911eea0?source=rss-e3fdedef2fb5------2)
 - [9 Python Automation Scripts to Enhance Security Operations for DevOps Teams](https://medium.com/@obaff/9-python-automation-scripts-to-enhance-security-operations-for-devops-teams-c758e70471da?source=rss-e3fdedef2fb5------2)
-- [10 Terraform Modules to Simplify Your Infrastructure as Code](https://medium.com/@obaff/10-terraform-modules-to-simplify-your-infrastructure-as-code-2870a8df663d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
