@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [15 Ansible Playbooks Every DevOps Engineer Should Automate](https://blog.devops.dev/15-ansible-playbooks-every-devops-engineer-should-automate-eac608ba574f?source=rss-e3fdedef2fb5------2)
 - [How to Automate Robust Backups: A DevOps Engineer’s Guide.](https://medium.com/@obaff/how-to-automate-robust-backups-a-devops-engineers-guide-50f23b2f52be?source=rss-e3fdedef2fb5------2)
 - [10 Prometheus Alerts Every DevOps Engineer Should Set Up](https://blog.devops.dev/10-prometheus-alerts-every-devops-engineer-should-set-up-9ff96c0bdfad?source=rss-e3fdedef2fb5------2)
 - [Automating Configuration Management with Ansible](https://medium.com/@obaff/automating-configuration-management-with-ansible-54bfc46bb4a4?source=rss-e3fdedef2fb5------2)
-- [10 Bash Scripts to Automate Kubernetes Deployment](https://medium.com/@obaff/10-bash-scripts-to-automate-kubernetes-deployment-b1cc7911eea0?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
