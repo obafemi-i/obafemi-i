@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure Backup Automation Script](https://medium.com/@obaff/azure-backup-automation-script-35ab582e0e28?source=rss-e3fdedef2fb5------2)
 - [Top 7 AI Frameworks I’ve Tried.](https://medium.com/h7w/top-7-ai-frameworks-ive-tried-e18cb399ea89?source=rss-e3fdedef2fb5------2)
 - [15 Ansible Playbooks Every DevOps Engineer Should Automate](https://blog.devops.dev/15-ansible-playbooks-every-devops-engineer-should-automate-eac608ba574f?source=rss-e3fdedef2fb5------2)
 - [How to Automate Robust Backups: A DevOps Engineer’s Guide.](https://medium.com/@obaff/how-to-automate-robust-backups-a-devops-engineers-guide-50f23b2f52be?source=rss-e3fdedef2fb5------2)
-- [10 Prometheus Alerts Every DevOps Engineer Should Set Up](https://blog.devops.dev/10-prometheus-alerts-every-devops-engineer-should-set-up-9ff96c0bdfad?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
