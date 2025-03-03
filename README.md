@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need to Know About Automating Tasks in Linux with Cron](https://blog.devops.dev/everything-you-need-to-know-about-automating-tasks-in-linux-with-cron-95f5748e97bf?source=rss-e3fdedef2fb5------2)
 - [Automating Azure DevOps Pipelines with YAML](https://medium.com/@obaff/automating-azure-devops-pipelines-with-yaml-2f9c2dabd047?source=rss-e3fdedef2fb5------2)
 - [Azure Backup Automation Script](https://medium.com/@obaff/azure-backup-automation-script-35ab582e0e28?source=rss-e3fdedef2fb5------2)
 - [Top 7 AI Frameworks I’ve Tried.](https://medium.com/h7w/top-7-ai-frameworks-ive-tried-e18cb399ea89?source=rss-e3fdedef2fb5------2)
-- [15 Ansible Playbooks Every DevOps Engineer Should Automate](https://blog.devops.dev/15-ansible-playbooks-every-devops-engineer-should-automate-eac608ba574f?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
