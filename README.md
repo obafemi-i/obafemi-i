@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [22 Python Scripts Every DevOps Engineer Should Automate](https://blog.devops.dev/22-python-scripts-every-devops-engineer-should-automate-0df7177675cd?source=rss-e3fdedef2fb5------2)
 - [10 Jenkins Pipeline Examples for Efficient CI/CD](https://medium.com/@obaff/10-jenkins-pipeline-examples-for-efficient-ci-cd-1a9f74a22eff?source=rss-e3fdedef2fb5------2)
 - [10 Log Management Scripts Every DevOps Engineer Needs](https://medium.com/@obaff/10-log-management-scripts-every-devops-engineer-needs-0da67b437a2d?source=rss-e3fdedef2fb5------2)
 - [Everything You Need to Know About Automating Tasks in Linux with Cron](https://blog.devops.dev/everything-you-need-to-know-about-automating-tasks-in-linux-with-cron-95f5748e97bf?source=rss-e3fdedef2fb5------2)
-- [Automating Azure DevOps Pipelines with YAML](https://medium.com/@obaff/automating-azure-devops-pipelines-with-yaml-2f9c2dabd047?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
