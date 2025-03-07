@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How to Turn Any Website Into LLM Knowledge](https://medium.com/h7w/how-to-turn-any-website-into-llm-knowledge-4eb124071100?source=rss-e3fdedef2fb5------2)
 - [22 Python Scripts Every DevOps Engineer Should Automate](https://blog.devops.dev/22-python-scripts-every-devops-engineer-should-automate-0df7177675cd?source=rss-e3fdedef2fb5------2)
 - [10 Jenkins Pipeline Examples for Efficient CI/CD](https://medium.com/@obaff/10-jenkins-pipeline-examples-for-efficient-ci-cd-1a9f74a22eff?source=rss-e3fdedef2fb5------2)
 - [10 Log Management Scripts Every DevOps Engineer Needs](https://medium.com/@obaff/10-log-management-scripts-every-devops-engineer-needs-0da67b437a2d?source=rss-e3fdedef2fb5------2)
-- [Everything You Need to Know About Automating Tasks in Linux with Cron](https://blog.devops.dev/everything-you-need-to-know-about-automating-tasks-in-linux-with-cron-95f5748e97bf?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
