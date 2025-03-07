@@ -31,7 +31,7 @@
 - [15 Bash One-Liners to Simplify Your DevOps Tasks](https://blog.devops.dev/15-bash-one-liners-to-simplify-your-devops-tasks-ae22c8528028?source=rss-e3fdedef2fb5------2)
 - [How to Turn Any Website Into LLM Knowledge](https://medium.com/h7w/how-to-turn-any-website-into-llm-knowledge-4eb124071100?source=rss-e3fdedef2fb5------2)
 - [22 Python Scripts Every DevOps Engineer Should Automate](https://blog.devops.dev/22-python-scripts-every-devops-engineer-should-automate-0df7177675cd?source=rss-e3fdedef2fb5------2)
-- [10 Jenkins Pipeline Examples for Efficient CI/CD](https://medium.com/@obaff/10-jenkins-pipeline-examples-for-efficient-ci-cd-1a9f74a22eff?source=rss-e3fdedef2fb5------2)
+- [10 Jenkins Pipeline Examples for Efficient CI/CD](https://blog.cubed.run/10-jenkins-pipeline-examples-for-efficient-ci-cd-1a9f74a22eff?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
