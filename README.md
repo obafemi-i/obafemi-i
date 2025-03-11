@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automating Network Administration with Python](https://blog.cubed.run/automating-network-administration-with-python-bd61aff4133f?source=rss-e3fdedef2fb5------2)
 - [Google’s New AI Mode](https://blog.cubed.run/googles-new-ai-mode-f0350a6effbd?source=rss-e3fdedef2fb5------2)
 - [15 Bash One-Liners to Simplify Your DevOps Tasks](https://blog.devops.dev/15-bash-one-liners-to-simplify-your-devops-tasks-ae22c8528028?source=rss-e3fdedef2fb5------2)
 - [How to Turn Any Website Into LLM Knowledge](https://medium.com/h7w/how-to-turn-any-website-into-llm-knowledge-4eb124071100?source=rss-e3fdedef2fb5------2)
-- [22 Python Scripts Every DevOps Engineer Should Automate](https://blog.devops.dev/22-python-scripts-every-devops-engineer-should-automate-0df7177675cd?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
