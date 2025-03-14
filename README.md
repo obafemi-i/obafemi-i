@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [17 Serverless Automation Scripts with AWS Lambda](https://blog.devops.dev/17-serverless-automation-scripts-with-aws-lambda-6d0b1c77c692?source=rss-e3fdedef2fb5------2)
 - [Deploying Azure OpenAI using Terraform](https://medium.com/@obaff/deploying-azure-openai-using-terraform-471c49541a10?source=rss-e3fdedef2fb5------2)
 - [18 Automated Backup Scripts for Your DevOps Toolbox](https://blog.devops.dev/18-automated-backup-scripts-for-your-devops-toolbox-66311bfcd155?source=rss-e3fdedef2fb5------2)
 - [Automating Network Administration with Python](https://blog.cubed.run/automating-network-administration-with-python-bd61aff4133f?source=rss-e3fdedef2fb5------2)
-- [Google’s New AI Mode](https://blog.cubed.run/googles-new-ai-mode-f0350a6effbd?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
