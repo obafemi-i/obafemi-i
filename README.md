@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Smart AI Chatbot for SQL Query Generation with OpenAI](https://medium.com/h7w/building-a-smart-ai-chatbot-for-sql-query-generation-with-openai-1b4f09eb7992?source=rss-e3fdedef2fb5------2)
 - [17 Serverless Automation Scripts with AWS Lambda](https://blog.devops.dev/17-serverless-automation-scripts-with-aws-lambda-6d0b1c77c692?source=rss-e3fdedef2fb5------2)
 - [Deploying Azure OpenAI using Terraform](https://medium.com/@obaff/deploying-azure-openai-using-terraform-471c49541a10?source=rss-e3fdedef2fb5------2)
 - [18 Automated Backup Scripts for Your DevOps Toolbox](https://blog.devops.dev/18-automated-backup-scripts-for-your-devops-toolbox-66311bfcd155?source=rss-e3fdedef2fb5------2)
-- [Automating Network Administration with Python](https://blog.cubed.run/automating-network-administration-with-python-bd61aff4133f?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
