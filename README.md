@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Fundamentals of AI Agents](https://medium.com/h7w/the-fundamentals-of-ai-agents-2614a675735d?source=rss-e3fdedef2fb5------2)
 - [9 Log Management Scripts for Better Troubleshooting](https://blog.devops.dev/9-log-management-scripts-for-better-troubleshooting-350353c60c2a?source=rss-e3fdedef2fb5------2)
 - [10 CI/CD Pipeline Scripts to Accelerate Deployment](https://medium.com/@obaff/10-ci-cd-pipeline-scripts-to-accelerate-deployment-c26426aef186?source=rss-e3fdedef2fb5------2)
 - [12 Post-Deployment Automation Scripts for Smooth Operations](https://blog.devops.dev/12-post-deployment-automation-scripts-for-smooth-operations-49df302f0c38?source=rss-e3fdedef2fb5------2)
-- [7 Ways to Improve Your Prometheus Monitoring Setup](https://medium.com/@obaff/7-ways-to-improve-your-prometheus-monitoring-setup-0dc319ca1a81?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
