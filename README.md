@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Cron Jobs for Automated Server Health Monitoring](https://medium.com/@obaff/10-cron-jobs-for-automated-server-health-monitoring-e0e70503bc9a?source=rss-e3fdedef2fb5------2)
 - [The Fundamentals of AI Agents](https://medium.com/h7w/the-fundamentals-of-ai-agents-2614a675735d?source=rss-e3fdedef2fb5------2)
 - [9 Log Management Scripts for Better Troubleshooting](https://blog.devops.dev/9-log-management-scripts-for-better-troubleshooting-350353c60c2a?source=rss-e3fdedef2fb5------2)
 - [10 CI/CD Pipeline Scripts to Accelerate Deployment](https://medium.com/@obaff/10-ci-cd-pipeline-scripts-to-accelerate-deployment-c26426aef186?source=rss-e3fdedef2fb5------2)
-- [12 Post-Deployment Automation Scripts for Smooth Operations](https://blog.devops.dev/12-post-deployment-automation-scripts-for-smooth-operations-49df302f0c38?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
