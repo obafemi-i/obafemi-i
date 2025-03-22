@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an End-to-End DevOps Pipeline Over the Weekend](https://medium.com/@obaff/building-an-end-to-end-devops-pipeline-over-the-weekend-ee51731e72f7?source=rss-e3fdedef2fb5------2)
 - [Securely Access AWS Instances with Session Manager](https://medium.com/@obaff/securely-access-aws-instances-with-session-manager-a3c19a983da1?source=rss-e3fdedef2fb5------2)
 - [12 kubectl Commands That Will Make Your Life Easier](https://medium.com/@obaff/12-kubectl-commands-that-will-make-your-life-easier-d391aa3ba430?source=rss-e3fdedef2fb5------2)
 - [10 Cron Jobs for Automated Server Health Monitoring](https://medium.com/@obaff/10-cron-jobs-for-automated-server-health-monitoring-e0e70503bc9a?source=rss-e3fdedef2fb5------2)
-- [The Fundamentals of AI Agents](https://medium.com/h7w/the-fundamentals-of-ai-agents-2614a675735d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
