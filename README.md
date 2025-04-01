@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [15 Kubernetes One-Liners to Simplify Cluster Management](https://blog.devops.dev/15-kubernetes-one-liners-to-simplify-cluster-management-8fe03825ea1f?source=rss-e3fdedef2fb5------2)
 - [12 Bash Scripts to Automate Configuration Management with Ansible](https://medium.com/@obaff/12-bash-scripts-to-automate-configuration-management-with-ansible-75bdd86cf484?source=rss-e3fdedef2fb5------2)
 - [Debugging Bash Scripts Like a Pro](https://blog.devops.dev/debugging-bash-scripts-like-a-pro-636d54ceaef0?source=rss-e3fdedef2fb5------2)
 - [6 Python Automation Scripts to Simplify Kubernetes Management](https://medium.com/@obaff/6-python-automation-scripts-to-simplify-kubernetes-management-e366a1d2a1bd?source=rss-e3fdedef2fb5------2)
-- [How to Build an AI Agent from Scratch in Python](https://blog.cubed.run/how-to-build-an-ai-agent-from-scratch-in-python-5c6485082c18?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
