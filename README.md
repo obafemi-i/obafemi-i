@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Learn Docker with These 4 Weekend Challenges](https://medium.com/@obaff/learn-docker-with-these-4-weekend-challenges-bf8ae28fe4f8?source=rss-e3fdedef2fb5------2)
 - [7 Bash Scripts for Quick Troubleshooting in Production Environments](https://medium.com/@obaff/7-bash-scripts-for-quick-troubleshooting-in-production-environments-5b8cb6d129e4?source=rss-e3fdedef2fb5------2)
 - [Automating Server Configuration with Bash and Ansible](https://medium.com/@obaff/automating-server-configuration-with-bash-and-ansible-d1dee92e6cf8?source=rss-e3fdedef2fb5------2)
 - [Generating Regular Expressions &lpar;Regex&rpar; Using AI with GPT-4](https://blog.cubed.run/generating-regular-expressions-regex-using-ai-with-gpt-4-40372021f437?source=rss-e3fdedef2fb5------2)
-- [15 Kubernetes One-Liners to Simplify Cluster Management](https://blog.devops.dev/15-kubernetes-one-liners-to-simplify-cluster-management-8fe03825ea1f?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
