@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [15 Bash Commands to Manage SSH Connections Efficiently](https://medium.com/@obaff/15-bash-commands-to-manage-ssh-connections-efficiently-6326db59d147?source=rss-e3fdedef2fb5------2)
 - [10 Python Scripts to Automate Security Hardening in DevOps](https://medium.com/@obaff/10-python-scripts-to-automate-security-hardening-in-devops-dd6434cf374f?source=rss-e3fdedef2fb5------2)
 - [Learn Docker with These 4 Weekend Challenges](https://medium.com/@obaff/learn-docker-with-these-4-weekend-challenges-bf8ae28fe4f8?source=rss-e3fdedef2fb5------2)
 - [7 Bash Scripts for Quick Troubleshooting in Production Environments](https://medium.com/@obaff/7-bash-scripts-for-quick-troubleshooting-in-production-environments-5b8cb6d129e4?source=rss-e3fdedef2fb5------2)
-- [Automating Server Configuration with Bash and Ansible](https://medium.com/@obaff/automating-server-configuration-with-bash-and-ansible-d1dee92e6cf8?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
