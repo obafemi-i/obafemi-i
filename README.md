@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Tools That Will Make You a More Productive DevOps Engineer](https://medium.com/@obaff/7-tools-that-will-make-you-a-more-productive-devops-engineer-47ccff5b7060?source=rss-e3fdedef2fb5------2)
 - [12 Bash Scripts to Automate Jenkins Pipelines](https://blog.cubed.run/12-bash-scripts-to-automate-jenkins-pipelines-6fca91008814?source=rss-e3fdedef2fb5------2)
 - [User Account Management Script Every DevOps Engineer Should Automate](https://medium.com/@obaff/user-account-management-script-every-devops-engineer-should-automate-3473365e7817?source=rss-e3fdedef2fb5------2)
 - [10 Bash Aliases for Increased Productivity in DevOps](https://blog.devops.dev/10-bash-aliases-for-increased-productivity-in-devops-1c37c3030a58?source=rss-e3fdedef2fb5------2)
-- [15 Bash Commands to Manage SSH Connections Efficiently](https://medium.com/@obaff/15-bash-commands-to-manage-ssh-connections-efficiently-6326db59d147?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
