@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 DevOps Scripts for Seamless Integration with Jenkins](https://blog.devops.dev/8-devops-scripts-for-seamless-integration-with-jenkins-7070d024f8a0?source=rss-e3fdedef2fb5------2)
 - [Automating CI/CD Pipelines with Ansible](https://medium.com/@obaff/automating-ci-cd-pipelines-with-ansible-dcf2b4bb558d?source=rss-e3fdedef2fb5------2)
 - [7 Tools That Will Make You a More Productive DevOps Engineer](https://medium.com/@obaff/7-tools-that-will-make-you-a-more-productive-devops-engineer-47ccff5b7060?source=rss-e3fdedef2fb5------2)
 - [12 Bash Scripts to Automate Jenkins Pipelines](https://blog.cubed.run/12-bash-scripts-to-automate-jenkins-pipelines-6fca91008814?source=rss-e3fdedef2fb5------2)
-- [User Account Management Script Every DevOps Engineer Should Automate](https://medium.com/@obaff/user-account-management-script-every-devops-engineer-should-automate-3473365e7817?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
