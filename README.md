@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Self-Updating Server Status Dashboard with Bash and Cron](https://medium.com/@obaff/build-a-self-updating-server-status-dashboard-with-bash-and-cron-a90a9d5a27b5?source=rss-e3fdedef2fb5------2)
 - [7 Essential Bash Scripts for Ansible Users](https://medium.com/@obaff/7-essential-bash-scripts-for-ansible-users-997e9128f6aa?source=rss-e3fdedef2fb5------2)
 - [17 Python Scripts to Automate CI/CD Pipeline Tasks](https://medium.com/@obaff/17-python-scripts-to-automate-ci-cd-pipeline-tasks-1dbe2f5d70bc?source=rss-e3fdedef2fb5------2)
 - [8 DevOps Scripts for Seamless Integration with Jenkins](https://blog.devops.dev/8-devops-scripts-for-seamless-integration-with-jenkins-7070d024f8a0?source=rss-e3fdedef2fb5------2)
-- [Automating CI/CD Pipelines with Ansible](https://medium.com/@obaff/automating-ci-cd-pipelines-with-ansible-dcf2b4bb558d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
