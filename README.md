@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 systemctl Commands to Master systemd in Production](https://medium.com/@obaff/10-systemctl-commands-to-master-systemd-in-production-848620f60555?source=rss-e3fdedef2fb5------2)
 - [14 Kubernetes YAML Files You’ll Use Regularly](https://medium.com/@obaff/14-kubernetes-yaml-files-youll-use-regularly-b3b81107d294?source=rss-e3fdedef2fb5------2)
 - [13 Bash Tricks to Avoid Repetitive Work](https://medium.com/@obaff/13-bash-tricks-to-avoid-repetitive-work-9123312f5a77?source=rss-e3fdedef2fb5------2)
 - [11 Linux Networking Commands](https://medium.com/@obaff/11-linux-networking-commands-014e94bd43f0?source=rss-e3fdedef2fb5------2)
-- [How to Build Local AI Agents with Python, Ollama, LangChain &amp; ChromaDB](https://medium.com/h7w/how-to-build-local-ai-agents-with-python-ollama-langchain-chromadb-14b780a4eafb?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
