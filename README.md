@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [15 Bash Scripts to Improve Your Observability with Prometheus](https://medium.com/@obaff/15-bash-scripts-to-improve-your-observability-with-prometheus-669aa78806ab?source=rss-e3fdedef2fb5------2)
 - [9 Shell Shortcuts Every DevOps Engineer Should Know](https://medium.com/@obaff/9-shell-shortcuts-every-devops-engineer-should-know-64885739fba6?source=rss-e3fdedef2fb5------2)
 - [10 systemctl Commands to Master systemd in Production](https://medium.com/@obaff/10-systemctl-commands-to-master-systemd-in-production-848620f60555?source=rss-e3fdedef2fb5------2)
 - [14 Kubernetes YAML Files You’ll Use Regularly](https://medium.com/@obaff/14-kubernetes-yaml-files-youll-use-regularly-b3b81107d294?source=rss-e3fdedef2fb5------2)
-- [13 Bash Tricks to Avoid Repetitive Work](https://medium.com/@obaff/13-bash-tricks-to-avoid-repetitive-work-9123312f5a77?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
