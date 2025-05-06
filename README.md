@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Important Bash Tricks to Make Your Scripts More Efficient](https://medium.com/@obaff/10-important-bash-tricks-to-make-your-scripts-more-efficient-ae16c7467508?source=rss-e3fdedef2fb5------2)
 - [Top 16 Kubernetes Scripts for Streamlined Cluster Management](https://blog.devops.dev/top-16-kubernetes-scripts-for-streamlined-cluster-management-24bc24c867e8?source=rss-e3fdedef2fb5------2)
 - [9 Log Parsing One-Liners Using awk, grep, and sed](https://blog.devops.dev/9-log-parsing-one-liners-using-awk-grep-and-sed-b92deaf8af00?source=rss-e3fdedef2fb5------2)
 - [11 Bash Scripts for Automating API Requests &amp; Webhooks](https://blog.devops.dev/11-bash-scripts-for-automating-api-requests-webhooks-b67ba63585a6?source=rss-e3fdedef2fb5------2)
-- [12 One-Liners for Quick Network Diagnostics](https://medium.com/@obaff/12-one-liners-for-quick-network-diagnostics-3ddc9f9155a1?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
