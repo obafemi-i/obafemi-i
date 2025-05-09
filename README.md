@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Automate SSL Certificate Management with Bash and Certbot](https://medium.com/@obaff/automate-ssl-certificate-management-with-bash-and-certbot-dfce21651b96?source=rss-e3fdedef2fb5------2)
 - [12 Advanced Bash Tricks for Writing High-Performance Scripts](https://medium.com/@obaff/12-advanced-bash-tricks-for-writing-high-performance-scripts-d904511be5be?source=rss-e3fdedef2fb5------2)
 - [11 Key Linux Performance Tuning Tricks for DevOps Engineers](https://medium.com/@obaff/11-key-linux-performance-tuning-tricks-for-devops-engineers-988aa9e5996f?source=rss-e3fdedef2fb5------2)
 - [10 Important Bash Tricks to Make Your Scripts More Efficient](https://medium.com/@obaff/10-important-bash-tricks-to-make-your-scripts-more-efficient-ae16c7467508?source=rss-e3fdedef2fb5------2)
-- [Top 16 Kubernetes Scripts for Streamlined Cluster Management](https://blog.devops.dev/top-16-kubernetes-scripts-for-streamlined-cluster-management-24bc24c867e8?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
