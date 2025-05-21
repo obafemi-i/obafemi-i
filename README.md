@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Expert Bash Techniques for Production‑Grade Scripting](https://blog.devops.dev/10-expert-bash-techniques-for-production-grade-scripting-d7e50a74ac68?source=rss-e3fdedef2fb5------2)
 - [14 Bash One-Liners to Speed Up Your Build Processes](https://medium.com/@obaff/14-bash-one-liners-to-speed-up-your-build-processes-d8e4c3dfc846?source=rss-e3fdedef2fb5------2)
 - [12 Bash One-Liners to Automate Your CI/CD Workflow](https://blog.devops.dev/12-bash-one-liners-to-automate-your-ci-cd-workflow-f6adbf46bb57?source=rss-e3fdedef2fb5------2)
 - [19 AWS CLI Commands Every Engineer Should Bookmark](https://awstip.com/19-aws-cli-commands-every-engineer-should-bookmark-607ded177545?source=rss-e3fdedef2fb5------2)
-- [10 Must-Have Grafana Dashboards for DevOps Engineers](https://blog.devops.dev/10-must-have-grafana-dashboards-for-devops-engineers-299e9041ab24?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
