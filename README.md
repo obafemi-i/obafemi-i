@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [14 Pipe &lpar; | &rpar; Use Cases](https://medium.com/@obaff/14-pipe-use-cases-e72b62238784?source=rss-e3fdedef2fb5------2)
 - [11 AI-Powered CLI Tools for Programming and Productivity](https://blog.cubed.run/11-ai-powered-cli-tools-for-programming-and-productivity-f63a75574e80?source=rss-e3fdedef2fb5------2)
 - [18 Cron Jobs for Efficient Backup and Disaster Recovery](https://medium.com/@obaff/18-cron-jobs-for-efficient-backup-and-disaster-recovery-52d1a51ea572?source=rss-e3fdedef2fb5------2)
 - [10 Expert Bash Techniques for Production‑Grade Scripting](https://blog.devops.dev/10-expert-bash-techniques-for-production-grade-scripting-d7e50a74ac68?source=rss-e3fdedef2fb5------2)
-- [14 Bash One-Liners to Speed Up Your Build Processes](https://medium.com/@obaff/14-bash-one-liners-to-speed-up-your-build-processes-d8e4c3dfc846?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
