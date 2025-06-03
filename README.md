@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Scripts for Centralized Logging](https://blog.devops.dev/10-scripts-for-centralized-logging-d3ca502c20e9?source=rss-e3fdedef2fb5------2)
 - [6 Bash Scripts to Fix Security Misconfigurations](https://devsecopsai.today/6-bash-scripts-to-fix-security-misconfigurations-e0d1759939d8?source=rss-e3fdedef2fb5------2)
 - [14 Pipe &lpar; | &rpar; Use Cases](https://medium.com/@obaff/14-pipe-use-cases-e72b62238784?source=rss-e3fdedef2fb5------2)
 - [11 AI-Powered CLI Tools for Programming and Productivity](https://blog.cubed.run/11-ai-powered-cli-tools-for-programming-and-productivity-f63a75574e80?source=rss-e3fdedef2fb5------2)
-- [18 Cron Jobs for Efficient Backup and Disaster Recovery](https://medium.com/@obaff/18-cron-jobs-for-efficient-backup-and-disaster-recovery-52d1a51ea572?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
