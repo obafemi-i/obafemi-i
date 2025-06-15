@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [15 Bash Commands for Parallel Processing &amp; Multi-Threading](https://medium.com/@obaff/15-bash-commands-for-parallel-processing-multi-threading-f99692c756a4?source=rss-e3fdedef2fb5------2)
 - [8 DevOps Scripts for Seamless API Testing and Monitoring](https://medium.com/devmap/8-devops-scripts-for-seamless-api-testing-and-monitoring-9a9a9225df3d?source=rss-e3fdedef2fb5------2)
 - [13 Bash-Only Tricks You Can Drop into Any CI/CD Pipeline](https://medium.com/@obaff/13-bash-only-tricks-you-can-drop-into-any-ci-cd-pipeline-e70ed0caca4c?source=rss-e3fdedef2fb5------2)
 - [10 Scripts for Centralized Logging](https://blog.devops.dev/10-scripts-for-centralized-logging-d3ca502c20e9?source=rss-e3fdedef2fb5------2)
-- [6 Bash Scripts to Fix Security Misconfigurations](https://devsecopsai.today/6-bash-scripts-to-fix-security-misconfigurations-e0d1759939d8?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
