@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [14 Bash Tricks to Optimize SSH Connections and Secure Remote Access](https://medium.com/@obaff/14-bash-tricks-to-optimize-ssh-connections-and-secure-remote-access-4e6fa2a0b0b4?source=rss-e3fdedef2fb5------2)
 - [10 Shell Scripts to Automate DevSecOps Workflows](https://devsecopsai.today/10-shell-scripts-to-automate-devsecops-workflows-a3bbd716775d?source=rss-e3fdedef2fb5------2)
 - [15 Bash Commands for Parallel Processing &amp; Multi-Threading](https://medium.com/@obaff/15-bash-commands-for-parallel-processing-multi-threading-f99692c756a4?source=rss-e3fdedef2fb5------2)
 - [8 DevOps Scripts for Seamless API Testing and Monitoring](https://medium.com/devmap/8-devops-scripts-for-seamless-api-testing-and-monitoring-9a9a9225df3d?source=rss-e3fdedef2fb5------2)
-- [13 Bash-Only Tricks You Can Drop into Any CI/CD Pipeline](https://medium.com/@obaff/13-bash-only-tricks-you-can-drop-into-any-ci-cd-pipeline-e70ed0caca4c?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
