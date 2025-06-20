@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Bash Tricks Using xargs, tee, and parallel to Automate Smarter](https://blog.cubed.run/12-bash-tricks-using-xargs-tee-and-parallel-to-automate-smarter-f2162005474a?source=rss-e3fdedef2fb5------2)
 - [Troubleshooting systemd Failures in Depth](https://medium.com/@obaff/troubleshooting-systemd-failures-in-depth-42beba249699?source=rss-e3fdedef2fb5------2)
 - [8 Production-Ready Docker Automation Scripts for Container Management](https://medium.com/@obaff/8-production-ready-docker-automation-scripts-for-container-management-05efeea0f1d6?source=rss-e3fdedef2fb5------2)
 - [14 Bash Tricks to Optimize SSH Connections and Secure Remote Access](https://medium.com/@obaff/14-bash-tricks-to-optimize-ssh-connections-and-secure-remote-access-4e6fa2a0b0b4?source=rss-e3fdedef2fb5------2)
-- [10 Shell Scripts to Automate DevSecOps Workflows](https://devsecopsai.today/10-shell-scripts-to-automate-devsecops-workflows-a3bbd716775d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
