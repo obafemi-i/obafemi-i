@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Bash Functions to Write Smarter Shell Scripts](https://medium.com/@obaff/10-bash-functions-to-write-smarter-shell-scripts-ecf0da822c97?source=rss-e3fdedef2fb5------2)
 - [15 Essential Helm Charts for Kubernetes Deployments](https://medium.com/@obaff/15-essential-helm-charts-for-kubernetes-deployments-89dbd4882a09?source=rss-e3fdedef2fb5------2)
 - [12 Bash Tricks Using xargs, tee, and parallel to Automate Smarter](https://blog.cubed.run/12-bash-tricks-using-xargs-tee-and-parallel-to-automate-smarter-f2162005474a?source=rss-e3fdedef2fb5------2)
 - [Troubleshooting systemd Failures in Depth](https://medium.com/@obaff/troubleshooting-systemd-failures-in-depth-42beba249699?source=rss-e3fdedef2fb5------2)
-- [8 Production-Ready Docker Automation Scripts for Container Management](https://medium.com/@obaff/8-production-ready-docker-automation-scripts-for-container-management-05efeea0f1d6?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
