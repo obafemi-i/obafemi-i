@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Basic Ansible Commands Every DevOps Engineer Should Know](https://medium.com/@obaff/12-basic-ansible-commands-every-devops-engineer-should-know-c5e8a312280a?source=rss-e3fdedef2fb5------2)
 - [9 Bash Scripts to Build Interactive Command-Line Tools with Menus and Prompts](https://devsecopsai.today/9-bash-scripts-to-build-interactive-command-line-tools-with-menus-and-prompts-2b1f0ad3eb18?source=rss-e3fdedef2fb5------2)
 - [19 Bash Functions Every DevOps Engineer Should Use](https://medium.com/@obaff/19-bash-functions-every-devops-engineer-should-use-df7e12e087d2?source=rss-e3fdedef2fb5------2)
 - [10 Bash Functions to Write Smarter Shell Scripts](https://medium.com/@obaff/10-bash-functions-to-write-smarter-shell-scripts-ecf0da822c97?source=rss-e3fdedef2fb5------2)
-- [15 Essential Helm Charts for Kubernetes Deployments](https://medium.com/@obaff/15-essential-helm-charts-for-kubernetes-deployments-89dbd4882a09?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
