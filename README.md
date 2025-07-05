@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Building a Lightweight CI/CD System with Just Bash](https://medium.com/@obaff/building-a-lightweight-ci-cd-system-with-just-bash-9c1550afe5aa?source=rss-e3fdedef2fb5------2)
 - [10 Bash Integrations for ChatOps &lpar;Slack Alerts with Webhooks&rpar;](https://medium.com/@obaff/10-bash-integrations-for-chatops-slack-alerts-with-webhooks-76255eea8839?source=rss-e3fdedef2fb5------2)
 - [11 Scripts to Transform Server Metrics into Insights](https://blog.devops.dev/11-scripts-to-transform-server-metrics-into-insights-e461d72276eb?source=rss-e3fdedef2fb5------2)
 - [15 Python Scripts to Inject AI into Your DevSecOps Tools](https://devsecopsai.today/15-python-scripts-to-inject-ai-into-your-devsecops-tools-53827da72b31?source=rss-e3fdedef2fb5------2)
-- [12 Basic Ansible Commands Every DevOps Engineer Should Know](https://medium.com/@obaff/12-basic-ansible-commands-every-devops-engineer-should-know-c5e8a312280a?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
