@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Essential Bash Scripts for Streamlining Database Administration](https://blog.devops.dev/12-essential-bash-scripts-for-streamlining-database-administration-a7486eaa6442?source=rss-e3fdedef2fb5------2)
 - [How to Structure a systemd Service File](https://medium.com/@obaff/how-to-structure-a-systemd-service-file-8fa8ab758947?source=rss-e3fdedef2fb5------2)
 - [13 Advanced Bash Tricks for SSH Power Users](https://medium.com/@obaff/13-advanced-bash-tricks-for-ssh-power-users-552eebcb5627?source=rss-e3fdedef2fb5------2)
 - [11 Python Scripts Every DevOps Engineer Should Use](https://medium.com/@obaff/11-python-scripts-every-devops-engineer-should-use-1a4cf91019da?source=rss-e3fdedef2fb5------2)
-- [Building a Lightweight CI/CD System with Just Bash](https://medium.com/@obaff/building-a-lightweight-ci-cd-system-with-just-bash-9c1550afe5aa?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
