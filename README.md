@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [18 Journal and Log One-Liners Every DevOps Engineer Should Know](https://medium.com/@obaff/18-journal-and-log-one-liners-every-devops-engineer-should-know-a3f40843d2dc?source=rss-e3fdedef2fb5------2)
 - [12 DevSecOps Pipelines to Secure Your Applications](https://devsecopsai.today/12-devsecops-pipelines-to-secure-your-applications-a519cba2548b?source=rss-e3fdedef2fb5------2)
 - [7 Time-Saving Ansible Features You’re Probably Not Using](https://medium.com/@obaff/7-time-saving-ansible-features-youre-probably-not-using-3c35f7d63795?source=rss-e3fdedef2fb5------2)
 - [12 Essential Bash Scripts for Streamlining Database Administration](https://blog.devops.dev/12-essential-bash-scripts-for-streamlining-database-administration-a7486eaa6442?source=rss-e3fdedef2fb5------2)
-- [How to Structure a systemd Service File](https://medium.com/@obaff/how-to-structure-a-systemd-service-file-8fa8ab758947?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
