@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Copy-Paste Templates for Common systemd Services](https://medium.com/@obaff/8-copy-paste-templates-for-common-systemd-services-696fca524a55?source=rss-e3fdedef2fb5------2)
 - [Introducing Docker Model Runner](https://medium.com/h7w/introducing-docker-model-runner-9701d7b5f8b3?source=rss-e3fdedef2fb5------2)
 - [11 systemctl Commands for Power Users in Production](https://medium.com/@obaff/11-systemctl-commands-for-power-users-in-production-a90db1cf30a7?source=rss-e3fdedef2fb5------2)
 - [7 Next-Level DevOps Weekend Projects](https://medium.com/@obaff/7-next-level-devops-weekend-projects-2bbb6a5586e4?source=rss-e3fdedef2fb5------2)
-- [18 Journal and Log One-Liners Every DevOps Engineer Should Know](https://medium.com/@obaff/18-journal-and-log-one-liners-every-devops-engineer-should-know-a3f40843d2dc?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
