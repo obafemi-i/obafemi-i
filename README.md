@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Docker BuildKit Features You’re Probably Not Using Yet &lpar;But Should&rpar;](https://medium.com/@obaff/12-docker-buildkit-features-youre-probably-not-using-yet-but-should-ca31e9a3b138?source=rss-e3fdedef2fb5------2)
 - [11 Ways to Use aws ssm to Automate EC2 Management](https://aws.plainenglish.io/11-ways-to-use-aws-ssm-to-automate-ec2-management-39c51538845a?source=rss-e3fdedef2fb5------2)
 - [7 Advanced Bash Scripts for Intelligent Automation in Production](https://medium.com/@obaff/7-advanced-bash-scripts-for-intelligent-automation-in-production-48e6569fee02?source=rss-e3fdedef2fb5------2)
 - [8 Copy-Paste Templates for Common systemd Services](https://medium.com/@obaff/8-copy-paste-templates-for-common-systemd-services-696fca524a55?source=rss-e3fdedef2fb5------2)
-- [Introducing Docker Model Runner](https://medium.com/h7w/introducing-docker-model-runner-9701d7b5f8b3?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
