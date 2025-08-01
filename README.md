@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SSH Debugging: 8 Flags That Will Help You Instantly](https://medium.com/@obaff/ssh-debugging-8-flags-that-will-help-you-instantly-067985ba7a0a?source=rss-e3fdedef2fb5------2)
 - [10 Advanced Bash Scripts Every DevOps Engineer Should Have in Their Toolkit](https://medium.com/@obaff/10-advanced-bash-scripts-every-devops-engineer-should-have-in-their-toolkit-e73b319c8a7b?source=rss-e3fdedef2fb5------2)
 - [13 Pro Techniques to Build Maintainable, Scalable Scripts](https://blog.devops.dev/13-pro-techniques-to-build-maintainable-scalable-scripts-bd598a384ee8?source=rss-e3fdedef2fb5------2)
 - [12 Docker BuildKit Features You’re Probably Not Using Yet &lpar;But Should&rpar;](https://medium.com/@obaff/12-docker-buildkit-features-youre-probably-not-using-yet-but-should-ca31e9a3b138?source=rss-e3fdedef2fb5------2)
-- [11 Ways to Use aws ssm to Automate EC2 Management](https://aws.plainenglish.io/11-ways-to-use-aws-ssm-to-automate-ec2-management-39c51538845a?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
