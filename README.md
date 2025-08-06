@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [11 hidden gems of systemd](https://medium.com/@obaff/11-hidden-gems-of-systemd-4d70030c86da?source=rss-e3fdedef2fb5------2)
 - [15 Bash One‑Liners to Extract Useful Information from System Logs](https://medium.com/@obaff/15-bash-one-liners-to-extract-useful-information-from-system-logs-bbe2533478de?source=rss-e3fdedef2fb5------2)
 - [10 Bash Scripts to Set Up a DevOps Workstation from Scratch](https://medium.com/@obaff/10-bash-scripts-to-set-up-a-devops-workstation-from-scratch-f876f2d6069b?source=rss-e3fdedef2fb5------2)
 - [SSH Debugging: 8 Flags That Will Help You Instantly](https://medium.com/@obaff/ssh-debugging-8-flags-that-will-help-you-instantly-067985ba7a0a?source=rss-e3fdedef2fb5------2)
-- [10 Advanced Bash Scripts Every DevOps Engineer Should Have in Their Toolkit](https://medium.com/@obaff/10-advanced-bash-scripts-every-devops-engineer-should-have-in-their-toolkit-e73b319c8a7b?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
