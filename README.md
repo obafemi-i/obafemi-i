@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [18 AWS CLI Tricks to Boost DevOps Productivity](https://aws.plainenglish.io/18-aws-cli-tricks-to-boost-devops-productivity-3190ddbc6e2d?source=rss-e3fdedef2fb5------2)
 - [8 SSH Shortcuts You Should Add to Your .bashrc](https://medium.com/@obaff/8-ssh-shortcuts-you-should-add-to-your-bashrc-fa43b1c005d4?source=rss-e3fdedef2fb5------2)
 - [10 Bash Scripts for Troubleshooting Kubernetes Issues](https://medium.com/@obaff/10-bash-scripts-for-troubleshooting-kubernetes-issues-cde367ae4ac3?source=rss-e3fdedef2fb5------2)
 - [11 hidden gems of systemd](https://medium.com/@obaff/11-hidden-gems-of-systemd-4d70030c86da?source=rss-e3fdedef2fb5------2)
-- [15 Bash One‑Liners to Extract Useful Information from System Logs](https://medium.com/@obaff/15-bash-one-liners-to-extract-useful-information-from-system-logs-bbe2533478de?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
