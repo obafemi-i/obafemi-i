@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [23 kubectl Commands Every DevOps Engineer Should Master](https://medium.com/@obaff/23-kubectl-commands-every-devops-engineer-should-master-ea6065ee6f87?source=rss-e3fdedef2fb5------2)
 - [9 Event-Driven Bash Scripts to Make Your Infrastructure Reactive](https://medium.com/@obaff/9-event-driven-bash-scripts-to-make-your-infrastructure-reactive-5cc7c80589b3?source=rss-e3fdedef2fb5------2)
 - [10 Linux Hardening Scripts Every DevSecOps Engineer Can Use](https://devsecopsai.today/10-linux-hardening-scripts-every-devsecops-engineer-can-use-264e510de5a9?source=rss-e3fdedef2fb5------2)
 - [12 Bash Scripts That Replace Tedious Terraform Commands](https://medium.com/@obaff/12-bash-scripts-that-replace-tedious-terraform-commands-1558106567df?source=rss-e3fdedef2fb5------2)
-- [18 AWS CLI Tricks to Boost DevOps Productivity](https://aws.plainenglish.io/18-aws-cli-tricks-to-boost-devops-productivity-3190ddbc6e2d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
