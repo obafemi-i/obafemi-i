@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Pro SSH Hardening &amp; Real-Time Automation Techniques](https://medium.com/@obaff/12-pro-ssh-hardening-real-time-automation-techniques-7f1f6fafee7d?source=rss-e3fdedef2fb5------2)
 - [How to Set Up Bastion Hosts with SSH.](https://medium.com/@obaff/how-to-set-up-bastion-hosts-with-ssh-6d0ff3795f04?source=rss-e3fdedef2fb5------2)
 - [23 kubectl Commands Every DevOps Engineer Should Master](https://medium.com/@obaff/23-kubectl-commands-every-devops-engineer-should-master-ea6065ee6f87?source=rss-e3fdedef2fb5------2)
 - [9 Event-Driven Bash Scripts to Make Your Infrastructure Reactive](https://medium.com/@obaff/9-event-driven-bash-scripts-to-make-your-infrastructure-reactive-5cc7c80589b3?source=rss-e3fdedef2fb5------2)
-- [10 Linux Hardening Scripts Every DevSecOps Engineer Can Use](https://devsecopsai.today/10-linux-hardening-scripts-every-devsecops-engineer-can-use-264e510de5a9?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
