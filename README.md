@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [14 Bash Aliases and Functions to Make Working with AWS a Breeze](https://aws.plainenglish.io/14-bash-aliases-and-functions-to-make-working-with-aws-a-breeze-a75a12e3c8a8?source=rss-e3fdedef2fb5------2)
 - [12 Pro SSH Hardening &amp; Real-Time Automation Techniques](https://medium.com/@obaff/12-pro-ssh-hardening-real-time-automation-techniques-7f1f6fafee7d?source=rss-e3fdedef2fb5------2)
 - [How to Set Up Bastion Hosts with SSH.](https://medium.com/@obaff/how-to-set-up-bastion-hosts-with-ssh-6d0ff3795f04?source=rss-e3fdedef2fb5------2)
 - [23 kubectl Commands Every DevOps Engineer Should Master](https://medium.com/@obaff/23-kubectl-commands-every-devops-engineer-should-master-ea6065ee6f87?source=rss-e3fdedef2fb5------2)
-- [9 Event-Driven Bash Scripts to Make Your Infrastructure Reactive](https://medium.com/@obaff/9-event-driven-bash-scripts-to-make-your-infrastructure-reactive-5cc7c80589b3?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
