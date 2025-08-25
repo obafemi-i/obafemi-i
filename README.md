@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Bash Debugging Techniques for Tracking Elusive Automation Bugs](https://medium.com/@obaff/12-bash-debugging-techniques-for-tracking-elusive-automation-bugs-f6bcda63c57f?source=rss-e3fdedef2fb5------2)
 - [13 Advanced Bash One-Liners to Improve Code Readability &amp; Maintainability](https://medium.com/@obaff/13-advanced-bash-one-liners-to-improve-code-readability-maintainability-aa23a0822766?source=rss-e3fdedef2fb5------2)
 - [14 Bash Aliases and Functions to Make Working with AWS a Breeze](https://aws.plainenglish.io/14-bash-aliases-and-functions-to-make-working-with-aws-a-breeze-a75a12e3c8a8?source=rss-e3fdedef2fb5------2)
 - [12 Pro SSH Hardening &amp; Real-Time Automation Techniques](https://medium.com/@obaff/12-pro-ssh-hardening-real-time-automation-techniques-7f1f6fafee7d?source=rss-e3fdedef2fb5------2)
-- [How to Set Up Bastion Hosts with SSH.](https://medium.com/@obaff/how-to-set-up-bastion-hosts-with-ssh-6d0ff3795f04?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
