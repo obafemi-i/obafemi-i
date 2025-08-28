@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [6 Handy Scripts to Clean Up Cloud Resources Automatically](https://medium.com/@obaff/6-handy-scripts-to-clean-up-cloud-resources-automatically-cb03433258c1?source=rss-e3fdedef2fb5------2)
 - [9 systemd One-Liners to Save Time on Server Admin](https://medium.com/@obaff/9-systemd-one-liners-to-save-time-on-server-admin-fb3d072c28f6?source=rss-e3fdedef2fb5------2)
 - [12 Bash Debugging Techniques for Tracking Elusive Automation Bugs](https://medium.com/@obaff/12-bash-debugging-techniques-for-tracking-elusive-automation-bugs-f6bcda63c57f?source=rss-e3fdedef2fb5------2)
 - [13 Advanced Bash One-Liners to Improve Code Readability &amp; Maintainability](https://medium.com/@obaff/13-advanced-bash-one-liners-to-improve-code-readability-maintainability-aa23a0822766?source=rss-e3fdedef2fb5------2)
-- [14 Bash Aliases and Functions to Make Working with AWS a Breeze](https://aws.plainenglish.io/14-bash-aliases-and-functions-to-make-working-with-aws-a-breeze-a75a12e3c8a8?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
