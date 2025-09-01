@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [14 jq Commands to Tame Your JSON Logs](https://medium.com/@obaff/14-jq-commands-to-tame-your-json-logs-c77030fad213?source=rss-e3fdedef2fb5------2)
 - [13 Time-Saving Aliases &amp; Small Functions for systemd and journalctl](https://medium.com/@obaff/13-time-saving-aliases-small-functions-for-systemd-and-journalctl-6e2c86703fb6?source=rss-e3fdedef2fb5------2)
 - [SSH Not Connecting? Here Are 8 Things to Check](https://medium.com/@obaff/ssh-not-connecting-here-are-8-things-to-check-620da0a5aece?source=rss-e3fdedef2fb5------2)
 - [6 Handy Scripts to Clean Up Cloud Resources Automatically](https://medium.com/@obaff/6-handy-scripts-to-clean-up-cloud-resources-automatically-cb03433258c1?source=rss-e3fdedef2fb5------2)
-- [9 systemd One-Liners to Save Time on Server Admin](https://medium.com/@obaff/9-systemd-one-liners-to-save-time-on-server-admin-fb3d072c28f6?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
