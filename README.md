@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Bash Scripts to Provision a New Ubuntu Server &lpar;cloud-init + Bash&rpar;](https://medium.com/@obaff/8-bash-scripts-to-provision-a-new-ubuntu-server-cloud-init-bash-4bbc2021bd61?source=rss-e3fdedef2fb5------2)
 - [10 Handy Bash Scripts for Automating Git Workflows](https://medium.com/@obaff/10-handy-bash-scripts-for-automating-git-workflows-1f29a772bd7d?source=rss-e3fdedef2fb5------2)
 - [14 jq Commands to Tame Your JSON Logs](https://medium.com/@obaff/14-jq-commands-to-tame-your-json-logs-c77030fad213?source=rss-e3fdedef2fb5------2)
 - [13 Time-Saving Aliases &amp; Small Functions for systemd and journalctl](https://medium.com/@obaff/13-time-saving-aliases-small-functions-for-systemd-and-journalctl-6e2c86703fb6?source=rss-e3fdedef2fb5------2)
-- [SSH Not Connecting? Here Are 8 Things to Check](https://medium.com/@obaff/ssh-not-connecting-here-are-8-things-to-check-620da0a5aece?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
