@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [13 Bash One-Liners Every DevSecOps Engineer Should Know](https://devsecopsai.today/13-bash-one-liners-every-devsecops-engineer-should-know-21ad1b82ed2f?source=rss-e3fdedef2fb5------2)
 - [7 SSH Configurations Every Beginner DevOps Engineer Should Know](https://medium.com/@obaff/7-ssh-configurations-every-beginner-devops-engineer-should-know-c550f41df327?source=rss-e3fdedef2fb5------2)
 - [7 Kubernetes Debugging Tricks You Probably Didn’t Know](https://medium.com/@obaff/7-kubernetes-debugging-tricks-you-probably-didnt-know-832884bd90a1?source=rss-e3fdedef2fb5------2)
 - [8 Bash Scripts to Provision a New Ubuntu Server &lpar;cloud-init + Bash&rpar;](https://medium.com/@obaff/8-bash-scripts-to-provision-a-new-ubuntu-server-cloud-init-bash-4bbc2021bd61?source=rss-e3fdedef2fb5------2)
-- [10 Handy Bash Scripts for Automating Git Workflows](https://medium.com/@obaff/10-handy-bash-scripts-for-automating-git-workflows-1f29a772bd7d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
