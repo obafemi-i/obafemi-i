@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [13 Cron Jobs to Keep Your DevSecOps Stack Bulletproof](https://devsecopsai.today/13-cron-jobs-to-keep-your-devsecops-stack-bulletproof-fa4f9b86a3dd?source=rss-e3fdedef2fb5------2)
 - [11 Performance Tweaks for Faster EC2 Boot Times](https://aws.plainenglish.io/11-performance-tweaks-for-faster-ec2-boot-times-d3b791f4d569?source=rss-e3fdedef2fb5------2)
 - [How to Monitor systemd Services Using Prometheus and Node Exporter](https://medium.com/@obaff/how-to-monitor-systemd-services-using-prometheus-and-node-exporter-478bfeaf95ca?source=rss-e3fdedef2fb5------2)
 - [13 Bash One-Liners Every DevSecOps Engineer Should Know](https://devsecopsai.today/13-bash-one-liners-every-devsecops-engineer-should-know-21ad1b82ed2f?source=rss-e3fdedef2fb5------2)
-- [7 SSH Configurations Every Beginner DevOps Engineer Should Know](https://medium.com/@obaff/7-ssh-configurations-every-beginner-devops-engineer-should-know-c550f41df327?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
