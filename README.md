@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Dockerfile Examples to Build Your First Containers](https://medium.com/@obaff/7-dockerfile-examples-to-build-your-first-containers-5d53f298a977?source=rss-e3fdedef2fb5------2)
 - [11 sed &amp; awk Recipes for Log Transformations](https://medium.com/@obaff/11-sed-awk-recipes-for-log-transformations-8dfe36de9774?source=rss-e3fdedef2fb5------2)
 - [18 Time‑Saving Bash Scripts for Cloud Infrastructure Automation](https://medium.com/@obaff/18-time-saving-bash-scripts-for-cloud-infrastructure-automation-5f694737c1cb?source=rss-e3fdedef2fb5------2)
 - [13 Cron Jobs to Keep Your DevSecOps Stack Bulletproof](https://devsecopsai.today/13-cron-jobs-to-keep-your-devsecops-stack-bulletproof-fa4f9b86a3dd?source=rss-e3fdedef2fb5------2)
-- [11 Performance Tweaks for Faster EC2 Boot Times](https://aws.plainenglish.io/11-performance-tweaks-for-faster-ec2-boot-times-d3b791f4d569?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
