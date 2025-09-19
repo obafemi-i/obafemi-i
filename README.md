@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [11 Git Productivity Hacks Every DevOps Engineer Should Know](https://medium.com/@obaff/11-git-productivity-hacks-every-devops-engineer-should-know-eee0bfa086b4?source=rss-e3fdedef2fb5------2)
 - [10 Grafana Dashboards to Get Started with Monitoring](https://medium.com/@obaff/10-grafana-dashboards-to-get-started-with-monitoring-0c678167293d?source=rss-e3fdedef2fb5------2)
 - [7 Dockerfile Examples to Build Your First Containers](https://medium.com/@obaff/7-dockerfile-examples-to-build-your-first-containers-5d53f298a977?source=rss-e3fdedef2fb5------2)
 - [11 sed &amp; awk Recipes for Log Transformations](https://medium.com/@obaff/11-sed-awk-recipes-for-log-transformations-8dfe36de9774?source=rss-e3fdedef2fb5------2)
-- [18 Time‑Saving Bash Scripts for Cloud Infrastructure Automation](https://medium.com/@obaff/18-time-saving-bash-scripts-for-cloud-infrastructure-automation-5f694737c1cb?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
