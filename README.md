@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [13 systemd Timer Units for DevOps Engineers](https://medium.com/@obaff/13-systemd-timer-units-for-devops-engineers-f83983b3bec0?source=rss-e3fdedef2fb5------2)
 - [Top 12 systemd Timer Examples to Replace Cron Jobs](https://medium.com/@obaff/top-12-systemd-timer-examples-to-replace-cron-jobs-2745ad489426?source=rss-e3fdedef2fb5------2)
 - [8 Lesser-Known ssh Options That Are Game-Changing](https://medium.com/@obaff/8-lesser-known-ssh-options-that-are-game-changing-e0e22f5758fc?source=rss-e3fdedef2fb5------2)
 - [11 Advanced Ansible Techniques to Master Configuration Management](https://medium.com/@obaff/11-advanced-ansible-techniques-to-master-configuration-management-aae9b8360872?source=rss-e3fdedef2fb5------2)
-- [11 Git Productivity Hacks Every DevOps Engineer Should Know](https://medium.com/@obaff/11-git-productivity-hacks-every-devops-engineer-should-know-eee0bfa086b4?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
