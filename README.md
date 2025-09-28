@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 Bash Scripts to Rotate and Secure Secrets Automatically](https://devsecopsai.today/9-bash-scripts-to-rotate-and-secure-secrets-automatically-612c2d548b54?source=rss-e3fdedef2fb5------2)
 - [9 Weekend Projects with the AWS CLI to Sharpen Your Skills](https://medium.com/@obaff/9-weekend-projects-with-the-aws-cli-to-sharpen-your-skills-2eadea91688f?source=rss-e3fdedef2fb5------2)
 - [11 SSH One-Liners to Supercharge Your DevOps Tasks](https://medium.com/@obaff/11-ssh-one-liners-to-supercharge-your-devops-tasks-7722bda81851?source=rss-e3fdedef2fb5------2)
 - [13 systemd Timer Units for DevOps Engineers](https://medium.com/@obaff/13-systemd-timer-units-for-devops-engineers-f83983b3bec0?source=rss-e3fdedef2fb5------2)
-- [Top 12 systemd Timer Examples to Replace Cron Jobs](https://medium.com/@obaff/top-12-systemd-timer-examples-to-replace-cron-jobs-2745ad489426?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
