@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 AWS Lambda Deployment Scripts You’ll Actually Use](https://aws.plainenglish.io/9-aws-lambda-deployment-scripts-youll-actually-use-e6acd0b70216?source=rss-e3fdedef2fb5------2)
 - [11 High-Impact Ansible Filters That Can Transform Your Playbooks](https://medium.com/@obaff/11-high-impact-ansible-filters-that-can-transform-your-playbooks-490f7c82fee1?source=rss-e3fdedef2fb5------2)
 - [9 Bash Scripts to Rotate and Secure Secrets Automatically](https://devsecopsai.today/9-bash-scripts-to-rotate-and-secure-secrets-automatically-612c2d548b54?source=rss-e3fdedef2fb5------2)
 - [9 Weekend Projects with the AWS CLI to Sharpen Your Skills](https://medium.com/@obaff/9-weekend-projects-with-the-aws-cli-to-sharpen-your-skills-2eadea91688f?source=rss-e3fdedef2fb5------2)
-- [11 SSH One-Liners to Supercharge Your DevOps Tasks](https://medium.com/@obaff/11-ssh-one-liners-to-supercharge-your-devops-tasks-7722bda81851?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
