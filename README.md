@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 One-Line Bash Patterns to Inspect Running Systems Quickly](https://medium.com/@obaff/12-one-line-bash-patterns-to-inspect-running-systems-quickly-807572daf5b3?source=rss-e3fdedef2fb5------2)
 - [7 Bash Scripts Every Sysadmin Should Have](https://medium.com/@obaff/8-bash-scripts-every-sysadmin-should-have-c2a80458e023?source=rss-e3fdedef2fb5------2)
 - [9 AWS Lambda Deployment Scripts You’ll Actually Use](https://aws.plainenglish.io/9-aws-lambda-deployment-scripts-youll-actually-use-e6acd0b70216?source=rss-e3fdedef2fb5------2)
 - [11 High-Impact Ansible Filters That Can Transform Your Playbooks](https://medium.com/@obaff/11-high-impact-ansible-filters-that-can-transform-your-playbooks-490f7c82fee1?source=rss-e3fdedef2fb5------2)
-- [9 Bash Scripts to Rotate and Secure Secrets Automatically](https://devsecopsai.today/9-bash-scripts-to-rotate-and-secure-secrets-automatically-612c2d548b54?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
