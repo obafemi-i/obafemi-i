@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Generate Server Inventory Reports with Bash and SSH](https://medium.com/@obaff/generate-server-inventory-reports-with-bash-and-ssh-98ef7b16452d?source=rss-e3fdedef2fb5------2)
 - [13 Bash One-Liners to Handle File Watchers and Live Reloading](https://medium.com/@obaff/13-bash-one-liners-to-handle-file-watchers-and-live-reloading-3165906ef7d9?source=rss-e3fdedef2fb5------2)
 - [14 Essential &lpar;But Underrated&rpar; Ansible Modules Every DevOps Engineer Should Know](https://medium.com/@obaff/14-essential-but-underrated-ansible-modules-every-devops-engineer-should-know-7481894e8e46?source=rss-e3fdedef2fb5------2)
 - [12 One-Line Bash Patterns to Inspect Running Systems Quickly](https://medium.com/@obaff/12-one-line-bash-patterns-to-inspect-running-systems-quickly-807572daf5b3?source=rss-e3fdedef2fb5------2)
-- [7 Bash Scripts Every Sysadmin Should Have](https://medium.com/@obaff/8-bash-scripts-every-sysadmin-should-have-c2a80458e023?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
