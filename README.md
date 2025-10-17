@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [11 Steps to Migrate from Jenkins to GitHub Actions or GitLab CI](https://medium.com/@obaff/11-steps-to-migrate-from-jenkins-to-github-actions-or-gitlab-ci-a760c7788e0d?source=rss-e3fdedef2fb5------2)
 - [11 GitHub Actions Workflows Every DevOps Engineer Should Copy-Paste](https://medium.com/@obaff/11-github-actions-workflows-every-devops-engineer-should-copy-paste-47109d3e8670?source=rss-e3fdedef2fb5------2)
 - [Generate Server Inventory Reports with Bash and SSH](https://medium.com/@obaff/generate-server-inventory-reports-with-bash-and-ssh-98ef7b16452d?source=rss-e3fdedef2fb5------2)
 - [13 Bash One-Liners to Handle File Watchers and Live Reloading](https://medium.com/@obaff/13-bash-one-liners-to-handle-file-watchers-and-live-reloading-3165906ef7d9?source=rss-e3fdedef2fb5------2)
-- [14 Essential &lpar;But Underrated&rpar; Ansible Modules Every DevOps Engineer Should Know](https://medium.com/@obaff/14-essential-but-underrated-ansible-modules-every-devops-engineer-should-know-7481894e8e46?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
