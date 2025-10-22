@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 SSH Performance Tweaks Every DevOps Engineer Should Know](https://blog.devops.dev/9-ssh-performance-tweaks-every-devops-engineer-should-know-cab1c82fd51c?source=rss-e3fdedef2fb5------2)
 - [11 systemd Hacks to Improve Service Reliability](https://medium.com/@obaff/11-systemd-hacks-to-improve-service-reliability-da92e814c09d?source=rss-e3fdedef2fb5------2)
 - [12 Practical Ansible One-Liners for CI/CD and Pipeline Automation](https://medium.com/@obaff/12-practical-ansible-one-liners-for-ci-cd-and-pipeline-automation-bb72592d3055?source=rss-e3fdedef2fb5------2)
 - [8 Practical Security Scans to Run in Every CI/CD Pipeline](https://devsecopsai.today/8-practical-security-scans-to-run-in-every-ci-cd-pipeline-6bd243b06e9c?source=rss-e3fdedef2fb5------2)
-- [8 Ansible Jinja2 Templates That Will Save You Hours](https://medium.com/@obaff/8-ansible-jinja2-templates-that-will-save-you-hours-689afc4c82c9?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
