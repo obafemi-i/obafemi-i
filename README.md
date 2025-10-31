@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [13 Bash Functions to Make Your CI Jobs Idempotent](https://medium.com/@obaff/13-bash-functions-to-make-your-ci-jobs-idempotent-27a2fba42fbb?source=rss-e3fdedef2fb5------2)
 - [8 Pipeline Caching Tricks That Cut CI Time in Half](https://blog.devops.dev/8-pipeline-caching-tricks-that-cut-ci-time-in-half-3af50fae7db9?source=rss-e3fdedef2fb5------2)
 - [12 SSH One-Liners for Power Troubleshooting](https://medium.com/@obaff/12-ssh-one-liners-for-power-troubleshooting-d0b81bf0b4db?source=rss-e3fdedef2fb5------2)
 - [12 Prometheus Alerts Every DevOps Engineer Should Copy‑Paste](https://medium.com/@obaff/12-prometheus-alerts-every-devops-engineer-should-copy-paste-f7e869835bbc?source=rss-e3fdedef2fb5------2)
-- [14 Ansible One-Liners to Automate Daily DevOps Tasks](https://medium.com/@obaff/14-ansible-one-liners-to-automate-daily-devops-tasks-6b4d6ff581c5?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
