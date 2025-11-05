@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 Docker one-liners to inspect and recover containers](https://medium.com/@obaff/9-docker-one-liners-to-inspect-and-recover-containers-fbc2a53a8539?source=rss-e3fdedef2fb5------2)
 - [10 Bash one-liners for quick file ops &lpar;copy, move, find, replace&rpar;](https://medium.com/@obaff/11-bash-one-liners-for-quick-file-ops-copy-move-find-replace-54243b172aae?source=rss-e3fdedef2fb5------2)
 - [9 Bash Techniques to Manage JSON, YAML, and INI Files in Automation](https://medium.com/@obaff/9-bash-techniques-to-manage-json-yaml-and-ini-files-in-automation-9825ebf3664d?source=rss-e3fdedef2fb5------2)
 - [13 Bash Functions to Make Your CI Jobs Idempotent](https://medium.com/@obaff/13-bash-functions-to-make-your-ci-jobs-idempotent-27a2fba42fbb?source=rss-e3fdedef2fb5------2)
-- [8 Pipeline Caching Tricks That Cut CI Time in Half](https://blog.devops.dev/8-pipeline-caching-tricks-that-cut-ci-time-in-half-3af50fae7db9?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
