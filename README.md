@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [16 One-Liner Groovy Snippets for Faster Jenkins Admin Tasks](https://medium.com/@obaff/16-one-liner-groovy-snippets-for-faster-jenkins-admin-tasks-9db37d255059?source=rss-e3fdedef2fb5------2)
 - [9 Bash Scripts to Automate SSL/TLS Cert Renewal &amp; Testing](https://medium.com/@obaff/9-bash-scripts-to-automate-ssl-tls-cert-renewal-testing-b1b5ff6ec988?source=rss-e3fdedef2fb5------2)
 - [11 Ansible One‑Liners to Recover Broken Playbooks](https://medium.com/@obaff/11-ansible-one-liners-to-recover-broken-playbooks-627c1cd77906?source=rss-e3fdedef2fb5------2)
 - [The Top 8 CI Health Alerts &lpar;Prometheus + Alertmanager&rpar;](https://medium.com/@obaff/the-top-8-ci-health-alerts-prometheus-alertmanager-e30cef6fbe84?source=rss-e3fdedef2fb5------2)
-- [What a Production-Grade CI/CD Pipeline Looks Like &lpar;With Commentary&rpar;](https://medium.com/@obaff/what-a-production-grade-ci-cd-pipeline-looks-like-with-commentary-a886630564ff?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
