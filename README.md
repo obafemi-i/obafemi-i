@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Ways to Automate Monitoring Setup with Ansible &lpar;Prometheus, Grafana, ELK, Datadog&rpar;](https://medium.com/@obaff/12-ways-to-automate-monitoring-setup-with-ansible-prometheus-grafana-elk-datadog-fc3aaa64635d?source=rss-e3fdedef2fb5------2)
 - [10 PromQL One-Liners to Debug Production Issues Faster](https://medium.com/@obaff/10-promql-one-liners-to-debug-production-issues-faster-3bb4e9c4ec5f?source=rss-e3fdedef2fb5------2)
 - [11 Practical tmux Sessions &amp; Shortcuts for Workstation Power Users](https://medium.com/@obaff/11-practical-tmux-sessions-shortcuts-for-workstation-power-users-765ea153792d?source=rss-e3fdedef2fb5------2)
 - [16 One-Liner Groovy Snippets for Faster Jenkins Admin Tasks](https://medium.com/@obaff/16-one-liner-groovy-snippets-for-faster-jenkins-admin-tasks-9db37d255059?source=rss-e3fdedef2fb5------2)
-- [9 Bash Scripts to Automate SSL/TLS Cert Renewal &amp; Testing](https://medium.com/@obaff/9-bash-scripts-to-automate-ssl-tls-cert-renewal-testing-b1b5ff6ec988?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
