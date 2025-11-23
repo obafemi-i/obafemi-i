@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 DevSecOps Weekend Projects](https://devsecopsai.today/7-devsecops-weekend-projects-8e1c5d375c06?source=rss-e3fdedef2fb5------2)
 - [Using Ansible to Set Up a CI/CD Pipeline](https://medium.com/@obaff/using-ansible-to-set-up-a-ci-cd-pipeline-11bfb7ccf8c0?source=rss-e3fdedef2fb5------2)
 - [12 Ways to Automate Monitoring Setup with Ansible &lpar;Prometheus, Grafana, ELK, Datadog&rpar;](https://medium.com/@obaff/12-ways-to-automate-monitoring-setup-with-ansible-prometheus-grafana-elk-datadog-fc3aaa64635d?source=rss-e3fdedef2fb5------2)
 - [10 PromQL One-Liners to Debug Production Issues Faster](https://medium.com/@obaff/10-promql-one-liners-to-debug-production-issues-faster-3bb4e9c4ec5f?source=rss-e3fdedef2fb5------2)
-- [11 Practical tmux Sessions &amp; Shortcuts for Workstation Power Users](https://medium.com/@obaff/11-practical-tmux-sessions-shortcuts-for-workstation-power-users-765ea153792d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
