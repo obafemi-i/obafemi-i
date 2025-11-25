@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Optimizing Your Server Startup Script](https://medium.com/@obaff/optimizing-your-server-startup-script-2121772e59c3?source=rss-e3fdedef2fb5------2)
 - [12 ~/.bashrc Snippets to Harden Your Shell](https://medium.com/@obaff/12-bashrc-snippets-to-harden-your-shell-21d49dd8009f?source=rss-e3fdedef2fb5------2)
 - [7 DevSecOps Weekend Projects](https://devsecopsai.today/7-devsecops-weekend-projects-8e1c5d375c06?source=rss-e3fdedef2fb5------2)
 - [Using Ansible to Set Up a CI/CD Pipeline](https://medium.com/@obaff/using-ansible-to-set-up-a-ci-cd-pipeline-11bfb7ccf8c0?source=rss-e3fdedef2fb5------2)
-- [12 Ways to Automate Monitoring Setup with Ansible &lpar;Prometheus, Grafana, ELK, Datadog&rpar;](https://medium.com/@obaff/12-ways-to-automate-monitoring-setup-with-ansible-prometheus-grafana-elk-datadog-fc3aaa64635d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
