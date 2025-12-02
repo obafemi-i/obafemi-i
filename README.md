@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 Ansible Automations for Safe and Simple Blue-Green Deployments](https://medium.com/@obaff/9-ansible-automations-for-safe-and-simple-blue-green-deployments-e762ff3e8a96?source=rss-e3fdedef2fb5------2)
 - [11 SSH Hardening Checklists for Production](https://devsecopsai.today/11-ssh-hardening-checklists-for-production-a5c841e1ae9f?source=rss-e3fdedef2fb5------2)
 - [13 systemctl One-Liners To Troubleshoot Production Issues Faster](https://medium.com/@obaff/13-systemctl-one-liners-to-troubleshoot-production-issues-faster-918fa79a5a8b?source=rss-e3fdedef2fb5------2)
 - [12 Bash Scripts to Implement Intelligent Retry, Backoff &amp; Error Recovery](https://medium.com/@obaff/12-bash-scripts-to-implement-intelligent-retry-backoff-error-recovery-a02ab682baae?source=rss-e3fdedef2fb5------2)
-- [Build an AI Agent with LangChain + Ollama + Streamlit &lpar;step-by-step&rpar;](https://blog.cubed.run/build-an-ai-agent-with-langchain-ollama-streamlit-step-by-step-841455ea3267?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
