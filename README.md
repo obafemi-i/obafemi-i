@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Your Cron Job Didn’t Run](https://medium.com/@obaff/why-your-cron-job-didnt-run-b218f76e9831?source=rss-e3fdedef2fb5------2)
 - [10 Commands to Generate Systemd Service Templates Quickly](https://medium.com/@obaff/10-commands-to-generate-systemd-service-templates-quickly-1a965a48e02d?source=rss-e3fdedef2fb5------2)
 - [10 Bash Scripts to Manage SSH Access Automatically](https://medium.com/@obaff/10-bash-scripts-to-manage-ssh-access-automatically-0c2d7a5e9c6e?source=rss-e3fdedef2fb5------2)
 - [9 Ansible Automations for Safe and Simple Blue-Green Deployments](https://medium.com/@obaff/9-ansible-automations-for-safe-and-simple-blue-green-deployments-e762ff3e8a96?source=rss-e3fdedef2fb5------2)
-- [11 SSH Hardening Checklists for Production](https://devsecopsai.today/11-ssh-hardening-checklists-for-production-a5c841e1ae9f?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
