@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Bash Checks to Catch Misconfigurations Before Deployment](https://medium.com/@obaff/12-bash-checks-to-catch-misconfigurations-before-deployment-abd7edd0e1f4?source=rss-e3fdedef2fb5------2)
 - [18 Production-Ready Jenkins Pipelines Every DevOps Engineer Should Know](https://medium.com/@obaff/18-production-ready-jenkins-pipelines-every-devops-engineer-should-know-c7b0e1a25808?source=rss-e3fdedef2fb5------2)
 - [Build Your First Agentic App with Agentic Postgres](https://medium.com/h7w/build-your-first-agentic-app-with-agentic-postgres-4cfafde42369?source=rss-e3fdedef2fb5------2)
 - [Why Your Cron Job Didn’t Run](https://medium.com/@obaff/why-your-cron-job-didnt-run-b218f76e9831?source=rss-e3fdedef2fb5------2)
-- [10 Commands to Generate Systemd Service Templates Quickly](https://medium.com/@obaff/10-commands-to-generate-systemd-service-templates-quickly-1a965a48e02d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
