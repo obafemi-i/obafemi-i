@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [13 Production-Ready GitLab CI Templates You Can Reuse Across Teams](https://medium.com/@obaff/13-production-ready-gitlab-ci-templates-you-can-reuse-across-teams-a06c5cf48d9f?source=rss-e3fdedef2fb5------2)
 - [How to Deploy Dockerized Applications with Ansible](https://medium.com/@obaff/how-to-deploy-dockerized-applications-with-ansible-b35a06f25e3a?source=rss-e3fdedef2fb5------2)
 - [13 systemctl + Bash Recipes Every DevOps Engineer Actually Uses](https://medium.com/@obaff/13-systemctl-bash-recipes-every-devops-engineer-actually-uses-a3e468e2d4e4?source=rss-e3fdedef2fb5------2)
 - [The Terraform CI/CD Pipeline That Catches Mistakes Before They Hit Prod](https://medium.com/@obaff/the-terraform-ci-cd-pipeline-that-catches-mistakes-before-they-hit-prod-4fa659708508?source=rss-e3fdedef2fb5------2)
-- [10 Production-Ready Ansible Playbooks for Automating SSL/TLS Certificate Management](https://medium.com/@obaff/10-production-ready-ansible-playbooks-for-automating-ssl-tls-certificate-management-11175e6c4aef?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
