@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [25 Terraform One-Liners for Production That Actually Save Hours](https://medium.com/@obaff/25-terraform-one-liners-for-production-that-actually-save-hours-0b0f62900f56?source=rss-e3fdedef2fb5------2)
 - [7 Production-Proven Ways to Secure SSH with Ansible &lpar;Without Locking Yourself Out&rpar;](https://medium.com/@obaff/7-production-proven-ways-to-secure-ssh-with-ansible-without-locking-yourself-out-b835590d659e?source=rss-e3fdedef2fb5------2)
 - [12 Ways to Search Historical Logs Quickly](https://medium.com/@obaff/12-ways-to-search-historical-logs-quickly-98f5fa37632c?source=rss-e3fdedef2fb5------2)
 - [13 Production-Ready GitLab CI Templates You Can Reuse Across Teams](https://medium.com/@obaff/13-production-ready-gitlab-ci-templates-you-can-reuse-across-teams-a06c5cf48d9f?source=rss-e3fdedef2fb5------2)
-- [How to Deploy Dockerized Applications with Ansible](https://medium.com/@obaff/how-to-deploy-dockerized-applications-with-ansible-b35a06f25e3a?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
