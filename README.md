@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Using SSH to Build a Minimal, Production-Ready Configuration Management System](https://medium.com/@obaff/using-ssh-to-build-a-minimal-production-ready-configuration-management-system-cc8fa7ebe466?source=rss-e3fdedef2fb5------2)
 - [9 GitHub Actions Workflows to Automate Your Day-to-Day CI](https://medium.com/@obaff/9-github-actions-workflows-to-automate-your-day-to-day-ci-239c98bab898?source=rss-e3fdedef2fb5------2)
 - [5 Practical Bash Scripts for SSH Monitoring &lpar;No SIEM, No Agents&rpar;](https://medium.com/@obaff/5-practical-bash-scripts-for-ssh-monitoring-no-siem-no-agents-a30d2d7f7e7d?source=rss-e3fdedef2fb5------2)
 - [25 Terraform One-Liners for Production That Actually Save Hours](https://medium.com/@obaff/25-terraform-one-liners-for-production-that-actually-save-hours-0b0f62900f56?source=rss-e3fdedef2fb5------2)
-- [7 Production-Proven Ways to Secure SSH with Ansible &lpar;Without Locking Yourself Out&rpar;](https://medium.com/@obaff/7-production-proven-ways-to-secure-ssh-with-ansible-without-locking-yourself-out-b835590d659e?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
