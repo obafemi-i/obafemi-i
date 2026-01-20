@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [11 Git Commands &amp; Workflows That Prevent Merge Conflicts](https://medium.com/@obaff/11-git-commands-workflows-that-prevent-merge-conflicts-2554ce55c097?source=rss-e3fdedef2fb5------2)
 - [Bash Guards That Actually Prevent Production Incidents](https://medium.com/@obaff/bash-guards-that-actually-prevent-production-incidents-fa6985c31c70?source=rss-e3fdedef2fb5------2)
 - [Using SSH to Build a Minimal, Production-Ready Configuration Management System](https://medium.com/@obaff/using-ssh-to-build-a-minimal-production-ready-configuration-management-system-cc8fa7ebe466?source=rss-e3fdedef2fb5------2)
 - [9 GitHub Actions Workflows to Automate Your Day-to-Day CI](https://medium.com/@obaff/9-github-actions-workflows-to-automate-your-day-to-day-ci-239c98bab898?source=rss-e3fdedef2fb5------2)
-- [5 Practical Bash Scripts for SSH Monitoring &lpar;No SIEM, No Agents&rpar;](https://medium.com/@obaff/5-practical-bash-scripts-for-ssh-monitoring-no-siem-no-agents-a30d2d7f7e7d?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
