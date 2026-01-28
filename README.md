@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [8 Practical Uses of Associative Arrays in Bash](https://medium.com/@obaff/8-practical-uses-of-associative-arrays-in-bash-8a1f43057c8b?source=rss-e3fdedef2fb5------2)
 - [11 ~/.bashrc Tweaks for Safer, Faster SSH Workflows](https://medium.com/@obaff/11-bashrc-tweaks-for-safer-faster-ssh-workflows-6573fbfa2b92?source=rss-e3fdedef2fb5------2)
 - [12 Cron Jobs to Automate SSL Certificate &amp; Domain Expiry Monitoring](https://medium.com/@obaff/12-cron-jobs-to-automate-ssl-certificate-domain-expiry-monitoring-fe12dd9955ec?source=rss-e3fdedef2fb5------2)
 - [10 Production-Safe Ways to Use set_fact in Ansible](https://medium.com/@obaff/10-production-safe-ways-to-use-set-fact-in-ansible-a985e2f9d055?source=rss-e3fdedef2fb5------2)
-- [11 Git Commands &amp; Workflows That Prevent Merge Conflicts](https://medium.com/@obaff/11-git-commands-workflows-that-prevent-merge-conflicts-2554ce55c097?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
