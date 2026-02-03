@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [7 Bash Scripts for Real SSH Security Monitoring](https://medium.com/@obaff/7-bash-scripts-for-real-ssh-security-monitoring-4ff584597efa?source=rss-e3fdedef2fb5------2)
 - [12 Safe .bashrc Functions Every DevOps Uses](https://medium.com/@obaff/12-safe-bashrc-functions-every-devops-uses-b327b9141921?source=rss-e3fdedef2fb5------2)
 - [14 Production-Ready Bash Patterns with systemd](https://medium.com/@obaff/14-production-ready-bash-patterns-with-systemd-168e96ea6ed9?source=rss-e3fdedef2fb5------2)
 - [8 Practical Uses of Associative Arrays in Bash](https://medium.com/@obaff/8-practical-uses-of-associative-arrays-in-bash-8a1f43057c8b?source=rss-e3fdedef2fb5------2)
-- [11 ~/.bashrc Tweaks for Safer, Faster SSH Workflows](https://medium.com/@obaff/11-bashrc-tweaks-for-safer-faster-ssh-workflows-6573fbfa2b92?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
