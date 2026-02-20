@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [17 Powerful SSH Flags Every DevOps Engineer Should Know](https://medium.com/@obaff/17-powerful-ssh-flags-every-devops-engineer-should-know-559deae4dcb8?source=rss-e3fdedef2fb5------2)
 - [12 Examples of CI/CD for Data Pipelines](https://medium.com/@obaff/12-examples-of-ci-cd-for-data-pipelines-d00830a2fae7?source=rss-e3fdedef2fb5------2)
 - [8 Bash Projects to Automatically Audit Your Infrastructure](https://medium.com/@obaff/8-bash-projects-to-automatically-audit-your-infrastructure-b99f2258e303?source=rss-e3fdedef2fb5------2)
 - [11 Ansible Pipelines to Provision Databases](https://medium.com/@obaff/11-ansible-pipelines-to-provision-databases-4537f1e12263?source=rss-e3fdedef2fb5------2)
-- [14 Safe Ways to Automate Release Notes in CI/CD](https://medium.com/@obaff/14-safe-ways-to-automate-release-notes-in-ci-cd-31b97d289e9b?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
