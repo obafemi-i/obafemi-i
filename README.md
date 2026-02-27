@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 Production-Safe PromQL Patterns](https://medium.com/@obaff/9-production-safe-promql-patterns-abccb366aa76?source=rss-e3fdedef2fb5------2)
 - [13 systemd Features Some DevOps Engineers Don’t Use But Should](https://medium.com/@obaff/13-systemd-features-some-devops-engineers-dont-use-but-should-7d1d50bae253?source=rss-e3fdedef2fb5------2)
 - [10 Zsh Configurations That Actually Makes DevOps Faster](https://medium.com/@obaff/10-zsh-configurations-that-actually-makes-devops-faster-b2fa8b0c411f?source=rss-e3fdedef2fb5------2)
 - [17 Powerful SSH Flags Every DevOps Engineer Should Know](https://medium.com/@obaff/17-powerful-ssh-flags-every-devops-engineer-should-know-559deae4dcb8?source=rss-e3fdedef2fb5------2)
-- [12 Examples of CI/CD for Data Pipelines](https://medium.com/@obaff/12-examples-of-ci-cd-for-data-pipelines-d00830a2fae7?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
