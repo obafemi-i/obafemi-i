@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 CI/CD Scripts DevOps Engineers Actually Use](https://medium.com/@obaff/9-ci-cd-scripts-devops-engineers-actually-use-3da93895a100?source=rss-e3fdedef2fb5------2)
 - [9 SSH Deployment Pipelines You Can Build in a Weekend](https://medium.com/@obaff/9-ssh-deployment-pipelines-you-can-build-in-a-weekend-ca07488c783c?source=rss-e3fdedef2fb5------2)
 - [12 Production-Ready kube-state-metrics Alerts](https://medium.com/@obaff/12-production-ready-kube-state-metrics-alerts-45ba0b1e5762?source=rss-e3fdedef2fb5------2)
 - [99.99% SLO Alert Template &lpar;Multi-Window Burn Rate&rpar;](https://medium.com/@obaff/99-99-slo-alert-template-multi-window-burn-rate-35d0bb38962f?source=rss-e3fdedef2fb5------2)
-- [9 Production-Safe PromQL Patterns](https://medium.com/@obaff/9-production-safe-promql-patterns-abccb366aa76?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
