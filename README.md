@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [10 GitLab CI Templates for Real Microservices](https://medium.com/@obaff/10-gitlab-ci-templates-for-real-microservices-fcba58e6e914?source=rss-e3fdedef2fb5------2)
 - [10 Git Guardrails You Can Add to .bashrc](https://medium.com/@obaff/10-git-guardrails-you-can-add-to-bashrc-55fc69a2b28f?source=rss-e3fdedef2fb5------2)
 - [9 CI/CD Scripts DevOps Engineers Actually Use](https://medium.com/@obaff/9-ci-cd-scripts-devops-engineers-actually-use-3da93895a100?source=rss-e3fdedef2fb5------2)
 - [9 SSH Deployment Pipelines You Can Build in a Weekend](https://medium.com/@obaff/9-ssh-deployment-pipelines-you-can-build-in-a-weekend-ca07488c783c?source=rss-e3fdedef2fb5------2)
-- [12 Production-Ready kube-state-metrics Alerts](https://medium.com/@obaff/12-production-ready-kube-state-metrics-alerts-45ba0b1e5762?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
