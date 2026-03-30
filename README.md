@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Multi-Server SSH Orchestration Toolkit with Bash](https://medium.com/@obaff/build-a-multi-server-ssh-orchestration-toolkit-with-bash-e50c32c2db66?source=rss-e3fdedef2fb5------2)
 - [12 Production-Ready Bash Scripts for Linux Server Hardening](https://medium.com/@obaff/12-production-ready-bash-scripts-for-linux-server-hardening-dcf5332adc4a?source=rss-e3fdedef2fb5------2)
 - [10 GitLab CI Templates for Real Microservices](https://medium.com/@obaff/10-gitlab-ci-templates-for-real-microservices-fcba58e6e914?source=rss-e3fdedef2fb5------2)
 - [10 Git Guardrails You Can Add to .bashrc](https://medium.com/@obaff/10-git-guardrails-you-can-add-to-bashrc-55fc69a2b28f?source=rss-e3fdedef2fb5------2)
-- [9 CI/CD Scripts DevOps Engineers Actually Use](https://medium.com/@obaff/9-ci-cd-scripts-devops-engineers-actually-use-3da93895a100?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
