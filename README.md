@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [13 Kubernetes YAML Patterns That Work for Multi-Cluster Platforms](https://medium.com/@obaff/13-kubernetes-yaml-patterns-that-work-for-multi-cluster-platforms-dab587898be2?source=rss-e3fdedef2fb5------2)
 - [Build a Multi-Server SSH Orchestration Toolkit with Bash](https://medium.com/@obaff/build-a-multi-server-ssh-orchestration-toolkit-with-bash-e50c32c2db66?source=rss-e3fdedef2fb5------2)
 - [12 Production-Ready Bash Scripts for Linux Server Hardening](https://medium.com/@obaff/12-production-ready-bash-scripts-for-linux-server-hardening-dcf5332adc4a?source=rss-e3fdedef2fb5------2)
 - [10 GitLab CI Templates for Real Microservices](https://medium.com/@obaff/10-gitlab-ci-templates-for-real-microservices-fcba58e6e914?source=rss-e3fdedef2fb5------2)
-- [10 Git Guardrails You Can Add to .bashrc](https://medium.com/@obaff/10-git-guardrails-you-can-add-to-bashrc-55fc69a2b28f?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
