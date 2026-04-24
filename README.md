@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [11 Terraform Projects to Build Real DevOps Skills](https://medium.com/@obaff/11-terraform-projects-to-build-real-devops-skills-204d633e8a5a?source=rss-e3fdedef2fb5------2)
 - [12 Configuration Management Tasks You Should Automate with Ansible &lpar;Production-Ready Guide&rpar;](https://medium.com/@obaff/12-configuration-management-tasks-you-should-automate-with-ansible-production-ready-guide-907609cbf114?source=rss-e3fdedef2fb5------2)
 - [11 Ansible Playbooks to Provision Production Servers Safely](https://medium.com/@obaff/11-ansible-playbooks-to-provision-production-servers-safely-6aa9db1b0e56?source=rss-e3fdedef2fb5------2)
 - [13 Kubernetes YAML Patterns That Work for Multi-Cluster Platforms](https://medium.com/@obaff/13-kubernetes-yaml-patterns-that-work-for-multi-cluster-platforms-dab587898be2?source=rss-e3fdedef2fb5------2)
-- [Build a Multi-Server SSH Orchestration Toolkit with Bash](https://medium.com/@obaff/build-a-multi-server-ssh-orchestration-toolkit-with-bash-e50c32c2db66?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
