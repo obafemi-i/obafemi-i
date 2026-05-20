@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [SSH Setup Every DevOps Engineer Needs](https://medium.com/@obaff/ssh-setup-every-devops-engineer-needs-d2d9fdc624fb?source=rss-e3fdedef2fb5------2)
 - [12 Practical Ways to Use Local LLMs for DevOps Automation](https://medium.com/h7w/12-practical-ways-to-use-local-llms-for-devops-automation-28ebae19f748?source=rss-e3fdedef2fb5------2)
 - [8 Bash Projects That Actually Help at Work](https://medium.com/@obaff/8-bash-projects-that-actually-help-at-work-ed755b085dde?source=rss-e3fdedef2fb5------2)
 - [Building an AI Log Analysis Tool for DevOps with Python](https://medium.com/@obaff/building-an-ai-log-analysis-tool-for-devops-with-python-04ec0f69f6ca?source=rss-e3fdedef2fb5------2)
-- [11 Terraform Projects to Build Real DevOps Skills](https://medium.com/@obaff/11-terraform-projects-to-build-real-devops-skills-204d633e8a5a?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
