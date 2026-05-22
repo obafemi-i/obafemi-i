@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Linux Checks to Run Before Rebooting Production Servers](https://medium.com/@obaff/12-linux-checks-to-run-before-rebooting-production-servers-423a37a17ce3?source=rss-e3fdedef2fb5------2)
 - [SSH Setup Every DevOps Engineer Needs](https://medium.com/@obaff/ssh-setup-every-devops-engineer-needs-d2d9fdc624fb?source=rss-e3fdedef2fb5------2)
 - [12 Practical Ways to Use Local LLMs for DevOps Automation](https://medium.com/h7w/12-practical-ways-to-use-local-llms-for-devops-automation-28ebae19f748?source=rss-e3fdedef2fb5------2)
 - [8 Bash Projects That Actually Help at Work](https://medium.com/@obaff/8-bash-projects-that-actually-help-at-work-ed755b085dde?source=rss-e3fdedef2fb5------2)
-- [Building an AI Log Analysis Tool for DevOps with Python](https://medium.com/@obaff/building-an-ai-log-analysis-tool-for-devops-with-python-04ec0f69f6ca?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
