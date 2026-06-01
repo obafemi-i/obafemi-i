@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [12 Linux Directories Every Engineer Should Understand](https://medium.com/@obaff/12-linux-directories-every-engineer-should-understand-340bd7efcd39?source=rss-e3fdedef2fb5------2)
 - [11 Python Automation Scripts Every DevOps Engineer Should Build](https://medium.com/@obaff/11-python-automation-scripts-every-devops-engineer-should-build-bc11defd323e?source=rss-e3fdedef2fb5------2)
 - [12 Linux Checks to Run Before Rebooting Production Servers](https://medium.com/@obaff/12-linux-checks-to-run-before-rebooting-production-servers-423a37a17ce3?source=rss-e3fdedef2fb5------2)
 - [SSH Setup Every DevOps Engineer Needs](https://medium.com/@obaff/ssh-setup-every-devops-engineer-needs-d2d9fdc624fb?source=rss-e3fdedef2fb5------2)
-- [12 Practical Ways to Use Local LLMs for DevOps Automation](https://medium.com/h7w/12-practical-ways-to-use-local-llms-for-devops-automation-28ebae19f748?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
