@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Turn a Fresh Ubuntu Server into a Production-Ready Host in 15 Minutes](https://medium.com/@obaff/turn-a-fresh-ubuntu-server-into-a-production-ready-host-in-15-minutes-095e7d86d6f8?source=rss-e3fdedef2fb5------2)
 - [12 Linux Directories Every Engineer Should Understand](https://medium.com/@obaff/12-linux-directories-every-engineer-should-understand-340bd7efcd39?source=rss-e3fdedef2fb5------2)
 - [11 Python Automation Scripts Every DevOps Engineer Should Build](https://medium.com/@obaff/11-python-automation-scripts-every-devops-engineer-should-build-bc11defd323e?source=rss-e3fdedef2fb5------2)
 - [12 Linux Checks to Run Before Rebooting Production Servers](https://medium.com/@obaff/12-linux-checks-to-run-before-rebooting-production-servers-423a37a17ce3?source=rss-e3fdedef2fb5------2)
-- [SSH Setup Every DevOps Engineer Needs](https://medium.com/@obaff/ssh-setup-every-devops-engineer-needs-d2d9fdc624fb?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
