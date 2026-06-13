@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Log Rotation and Archiving Solution](https://medium.com/@obaff/build-a-log-rotation-and-archiving-solution-0c754059a44b?source=rss-e3fdedef2fb5------2)
 - [12 Bash One-Liners That Actually Solved Production Incidents](https://medium.com/@obaff/12-bash-one-liners-that-actually-solved-production-incidents-10f29eb78853?source=rss-e3fdedef2fb5------2)
 - [15 Linux Log Commands Every DevOps Engineer Should Know](https://medium.com/@obaff/15-linux-log-commands-every-devops-engineer-should-know-07bda2597a5e?source=rss-e3fdedef2fb5------2)
 - [Create an Automated Disk Cleanup System with Bash](https://medium.com/@obaff/create-an-automated-disk-cleanup-system-with-bash-c2d037dd4c08?source=rss-e3fdedef2fb5------2)
-- [12 Bash Scripts for DNS Diagnostics Every DevOps Engineer Should Know](https://medium.com/@obaff/12-bash-scripts-for-dns-diagnostics-every-devops-engineer-should-know-f5a3f10c4822?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
