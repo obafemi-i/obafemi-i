@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Build a Reliable Cron Monitoring System](https://medium.com/@obaff/build-a-reliable-cron-monitoring-system-eedf4ad46eee?source=rss-e3fdedef2fb5------2)
 - [12 Bash Tricks for Working with Text Files &lpar;That Every DevOps Engineer Should Know&rpar;](https://medium.com/@obaff/12-bash-tricks-for-working-with-text-files-that-every-devops-engineer-should-know-3c1e640c522e?source=rss-e3fdedef2fb5------2)
 - [Build a Log Rotation and Archiving Solution](https://medium.com/@obaff/build-a-log-rotation-and-archiving-solution-0c754059a44b?source=rss-e3fdedef2fb5------2)
 - [12 Bash One-Liners That Actually Solved Production Incidents](https://medium.com/@obaff/12-bash-one-liners-that-actually-solved-production-incidents-10f29eb78853?source=rss-e3fdedef2fb5------2)
-- [15 Linux Log Commands Every DevOps Engineer Should Know](https://medium.com/@obaff/15-linux-log-commands-every-devops-engineer-should-know-07bda2597a5e?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
