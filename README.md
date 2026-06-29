@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 Logging Patterns That Make Debugging Production Systems Much Easier](https://medium.com/@obaff/9-logging-patterns-that-make-debugging-production-systems-much-easier-0619185217d5?source=rss-e3fdedef2fb5------2)
 - [11 Advanced vmstat Techniques Every Linux Engineer Should Know](https://medium.com/@obaff/11-advanced-vmstat-techniques-every-linux-engineer-should-know-071dd7e666c8?source=rss-e3fdedef2fb5------2)
 - [Build a Reliable Cron Monitoring System](https://medium.com/@obaff/build-a-reliable-cron-monitoring-system-eedf4ad46eee?source=rss-e3fdedef2fb5------2)
 - [12 Bash Tricks for Working with Text Files &lpar;That Every DevOps Engineer Should Know&rpar;](https://medium.com/@obaff/12-bash-tricks-for-working-with-text-files-that-every-devops-engineer-should-know-3c1e640c522e?source=rss-e3fdedef2fb5------2)
-- [Build a Log Rotation and Archiving Solution](https://medium.com/@obaff/build-a-log-rotation-and-archiving-solution-0c754059a44b?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
