@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Your First CI/CD Pipeline: A YAML File Explained Line by Line](https://medium.com/@obaff/your-first-ci-cd-pipeline-a-yaml-file-explained-line-by-line-66d3eda36fdd?source=rss-e3fdedef2fb5------2)
 - [How to Read a Linux Log File Like You Actually Know What You’re Doing](https://medium.com/@obaff/how-to-read-a-linux-log-file-like-you-actually-know-what-youre-doing-123117327a73?source=rss-e3fdedef2fb5------2)
 - [10 Bash Error-Handling Tricks Every DevOps Engineer Needs Before Production Breaks You](https://medium.com/@obaff/10-bash-error-handling-tricks-every-devops-engineer-needs-before-production-breaks-you-edecfceeff7c?source=rss-e3fdedef2fb5------2)
 - [10 Bash One-Liners That Replace Entire Monitoring Dashboards](https://medium.com/@obaff/10-bash-one-liners-that-replace-entire-monitoring-dashboards-aedba3e2e376?source=rss-e3fdedef2fb5------2)
-- [Automate AWS Daily Cost Reports with Bash](https://medium.com/@obaff/automate-aws-daily-cost-reports-with-bash-c62eefd6d4d9?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
