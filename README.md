@@ -28,10 +28,10 @@
 
 ### Latest blog posts
 <!-- BLOG-POST-LIST:START -->
+- [9 SSH Mistakes That Quietly Make Your Servers Vulnerable](https://medium.com/@obaff/9-ssh-mistakes-that-quietly-make-your-servers-vulnerable-29a173a2de62?source=rss-e3fdedef2fb5------2)
 - [15 jq and yq One-Liners Every DevOps Engineer Should Know](https://medium.com/@obaff/15-jq-and-yq-one-liners-every-devops-engineer-should-know-08daa407aab0?source=rss-e3fdedef2fb5------2)
 - [11 Linux Performance Debugging Commands to Run Before You Tune Anything](https://medium.com/@obaff/11-linux-performance-debugging-commands-to-run-before-you-tune-anything-c3922ea9b6d6?source=rss-e3fdedef2fb5------2)
 - [7 Ansible Projects to Learn Configuration Management Properly](https://medium.com/@obaff/7-ansible-projects-to-learn-configuration-management-properly-1633d271297e?source=rss-e3fdedef2fb5------2)
-- [7 Bash Quoting Rules That Will Save You From Silent Bugs](https://medium.com/@obaff/7-bash-quoting-rules-that-will-save-you-from-silent-bugs-a170cee783e0?source=rss-e3fdedef2fb5------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
